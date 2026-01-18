@@ -1,3 +1,7 @@
+import os
+os.environ["TRANSFORMERS_NO_TF"] = "1"
+
+
 import json
 import faiss
 import numpy as np

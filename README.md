@@ -1,7 +1,7 @@
 Install and Running commands:1
 
 1) pip3 install -r requirements.txt
-2) python3 -c "import nltk; nltk.download('punkt')"
+2) python3 -c "import nltk; nltk.download('punkt'); nltk.download('punkt_tab')"
 3) python3 code/ingest.py
    Output of Step 3:- data/corpus_chunks.json
 
@@ -22,3 +22,12 @@ Install and Running commands:1
     View retrieved Wikipedia sources
 
 
+Optional:
+If you see error related 
+ValueError: Your currently installed version of Keras is Keras 3,
+but this is not yet supported in Transformers.
+Please install tf-keras
+
+
+1) pip uninstall -y tensorflow keras tf-keras
+2) pip install torch sentence-transformers --upgrade
