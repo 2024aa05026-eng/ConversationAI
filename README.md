@@ -20,7 +20,9 @@ Install and Running commands:
    Output of step 5: data/bm25.pkl
 
 6) Launch web interface
-    streamlit run app.py --server.runOnSave=false
+    streamlit run app.py --server.runOnSave=false --server.fileWatcherType=none
+    streamlit run app.py --server.fileWatcherType=none
+
     Open browser: http://localhost:8501
     
 7) You can now:
