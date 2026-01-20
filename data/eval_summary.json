@@ -1,0 +1,20 @@
+{
+  "dense": {
+    "MRR": 0.5303,
+    "Recall@5": 0.68,
+    "Average_Latency": 4.41,
+    "Total_Questions": 100
+  },
+  "sparse": {
+    "MRR": 0.4677,
+    "Recall@5": 0.58,
+    "Average_Latency": 6.894,
+    "Total_Questions": 100
+  },
+  "hybrid": {
+    "MRR": 0.6017,
+    "Recall@5": 0.74,
+    "Average_Latency": 5.042,
+    "Total_Questions": 100
+  }
+}

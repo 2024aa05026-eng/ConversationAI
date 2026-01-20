@@ -1,0 +1,4502 @@
+[
+  {
+    "mode": "dense",
+    "question": "What is the function of myosin and phosphatases ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Enzyme",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Enzyme",
+      "https://en.wikipedia.org/wiki/Protein",
+      "https://en.wikipedia.org/wiki/Mitochondrion",
+      "https://en.wikipedia.org/wiki/Mitochondrion",
+      "https://en.wikipedia.org/wiki/Cell_(biology)"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 11.469
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the function of myosin and phosphatases ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Enzyme",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Enzyme",
+      "https://en.wikipedia.org/wiki/Enzyme",
+      "https://en.wikipedia.org/wiki/Plato",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Philosophy"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 6.141
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the function of myosin and phosphatases ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Enzyme",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Enzyme",
+      "https://en.wikipedia.org/wiki/Enzyme",
+      "https://en.wikipedia.org/wiki/Protein",
+      "https://en.wikipedia.org/wiki/Mitochondrion",
+      "https://en.wikipedia.org/wiki/Plato"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 9.927
+  },
+  {
+    "mode": "dense",
+    "question": "What is the best way to learn a language ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Automation",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Cognitive_science",
+      "https://en.wikipedia.org/wiki/Cognitive_science",
+      "https://en.wikipedia.org/wiki/Psycholinguistics",
+      "https://en.wikipedia.org/wiki/Literacy",
+      "https://en.wikipedia.org/wiki/Psycholinguistics"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 3.65
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the best way to learn a language ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Automation",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Friedrich_Nietzsche",
+      "https://en.wikipedia.org/wiki/Friedrich_Nietzsche",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Semantics"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 1.944
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the best way to learn a language ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Automation",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Cognitive_science",
+      "https://en.wikipedia.org/wiki/Friedrich_Nietzsche",
+      "https://en.wikipedia.org/wiki/Cognitive_science",
+      "https://en.wikipedia.org/wiki/Friedrich_Nietzsche",
+      "https://en.wikipedia.org/wiki/Psycholinguistics"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 6.477
+  },
+  {
+    "mode": "dense",
+    "question": "What is the cause of the pharyngeal consonants ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Phonetics",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Phonetics",
+      "https://en.wikipedia.org/wiki/Phonetics",
+      "https://en.wikipedia.org/wiki/Phonetics",
+      "https://en.wikipedia.org/wiki/Phonetics",
+      "https://en.wikipedia.org/wiki/Phonetics"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 15.626
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the cause of the pharyngeal consonants ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Phonetics",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Astronomy",
+      "https://en.wikipedia.org/wiki/Astronomy",
+      "https://en.wikipedia.org/wiki/Astronomy"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 15.646
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the cause of the pharyngeal consonants ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Phonetics",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Phonetics",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Phonetics",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Phonetics"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 16.413
+  },
+  {
+    "mode": "dense",
+    "question": "What is the simplest way to manage the risk of loss ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Risk_management",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Risk_management",
+      "https://en.wikipedia.org/wiki/Project_management",
+      "https://en.wikipedia.org/wiki/Risk_management",
+      "https://en.wikipedia.org/wiki/Risk_management",
+      "https://en.wikipedia.org/wiki/Project_management"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 2.807
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the simplest way to manage the risk of loss ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Risk_management",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Higgs_boson",
+      "https://en.wikipedia.org/wiki/Friedrich_Nietzsche",
+      "https://en.wikipedia.org/wiki/Friedrich_Nietzsche"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 14.767
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the simplest way to manage the risk of loss ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Risk_management",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Risk_management",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Project_management",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Risk_management"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 5.549
+  },
+  {
+    "mode": "dense",
+    "question": "What is the purpose of the study of reconsolidation ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Memory",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Memory",
+      "https://en.wikipedia.org/wiki/Memory",
+      "https://en.wikipedia.org/wiki/Emotion",
+      "https://en.wikipedia.org/wiki/Emotion",
+      "https://en.wikipedia.org/wiki/Personality_psychology"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 5.033
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the purpose of the study of reconsolidation ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Memory",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Memory",
+      "https://en.wikipedia.org/wiki/Memory",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Philosophy"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 4.887
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the purpose of the study of reconsolidation ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Memory",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Memory",
+      "https://en.wikipedia.org/wiki/Memory",
+      "https://en.wikipedia.org/wiki/Memory",
+      "https://en.wikipedia.org/wiki/Memory",
+      "https://en.wikipedia.org/wiki/Emotion"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 2.939
+  },
+  {
+    "mode": "dense",
+    "question": "What is the name of the anti-Christian , anti-Buddhist , anti-Nihilist par excellence ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Friedrich_Nietzsche",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Friedrich_Nietzsche",
+      "https://en.wikipedia.org/wiki/Friedrich_Nietzsche",
+      "https://en.wikipedia.org/wiki/Friedrich_Nietzsche",
+      "https://en.wikipedia.org/wiki/Friedrich_Nietzsche",
+      "https://en.wikipedia.org/wiki/Religion"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 3.7
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the name of the anti-Christian , anti-Buddhist , anti-Nihilist par excellence ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Friedrich_Nietzsche",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Friedrich_Nietzsche",
+      "https://en.wikipedia.org/wiki/Friedrich_Nietzsche",
+      "https://en.wikipedia.org/wiki/Friedrich_Nietzsche",
+      "https://en.wikipedia.org/wiki/Friedrich_Nietzsche",
+      "https://en.wikipedia.org/wiki/Higgs_boson"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 15.699
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the name of the anti-Christian , anti-Buddhist , anti-Nihilist par excellence ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Friedrich_Nietzsche",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Friedrich_Nietzsche",
+      "https://en.wikipedia.org/wiki/Friedrich_Nietzsche",
+      "https://en.wikipedia.org/wiki/Friedrich_Nietzsche",
+      "https://en.wikipedia.org/wiki/Friedrich_Nietzsche",
+      "https://en.wikipedia.org/wiki/Friedrich_Nietzsche"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 2.62
+  },
+  {
+    "mode": "dense",
+    "question": "What is the term for the  broad formula for how a business is going to compete ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Strategic_management",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Business_process",
+      "https://en.wikipedia.org/wiki/Risk_management",
+      "https://en.wikipedia.org/wiki/Corporate_strategy",
+      "https://en.wikipedia.org/wiki/Strategic_management",
+      "https://en.wikipedia.org/wiki/Corporate_strategy"
+    ],
+    "rank": 4,
+    "reciprocal_rank": 0.25,
+    "latency": 3.228
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the term for the  broad formula for how a business is going to compete ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Strategic_management",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Strategic_management",
+      "https://en.wikipedia.org/wiki/Corporate_strategy",
+      "https://en.wikipedia.org/wiki/Strategic_management",
+      "https://en.wikipedia.org/wiki/Corporate_strategy",
+      "https://en.wikipedia.org/wiki/Number_theory"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 5.419
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the term for the  broad formula for how a business is going to compete ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Strategic_management",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Corporate_strategy",
+      "https://en.wikipedia.org/wiki/Business_process",
+      "https://en.wikipedia.org/wiki/Strategic_management",
+      "https://en.wikipedia.org/wiki/Risk_management",
+      "https://en.wikipedia.org/wiki/Corporate_strategy"
+    ],
+    "rank": 3,
+    "reciprocal_rank": 0.3333333333333333,
+    "latency": 5.08
+  },
+  {
+    "mode": "dense",
+    "question": "What is the entropy of the position of the piece ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Information_theory",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Information_theory",
+      "https://en.wikipedia.org/wiki/Information_theory",
+      "https://en.wikipedia.org/wiki/Information_theory",
+      "https://en.wikipedia.org/wiki/Information_theory",
+      "https://en.wikipedia.org/wiki/Information_theory"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 3.473
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the entropy of the position of the piece ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Information_theory",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Information_theory",
+      "https://en.wikipedia.org/wiki/Information_theory",
+      "https://en.wikipedia.org/wiki/Information_theory",
+      "https://en.wikipedia.org/wiki/Information_theory",
+      "https://en.wikipedia.org/wiki/Astronomy"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 14.367
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the entropy of the position of the piece ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Information_theory",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Information_theory",
+      "https://en.wikipedia.org/wiki/Information_theory",
+      "https://en.wikipedia.org/wiki/Information_theory",
+      "https://en.wikipedia.org/wiki/Information_theory",
+      "https://en.wikipedia.org/wiki/Information_theory"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 4.831
+  },
+  {
+    "mode": "dense",
+    "question": "What was the name of the country that Eisenhower gave his speech to ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Nuclear_power",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Cold_War",
+      "https://en.wikipedia.org/wiki/Cold_War",
+      "https://en.wikipedia.org/wiki/Cold_War",
+      "https://en.wikipedia.org/wiki/Cold_War",
+      "https://en.wikipedia.org/wiki/Cold_War"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 14.237
+  },
+  {
+    "mode": "sparse",
+    "question": "What was the name of the country that Eisenhower gave his speech to ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Nuclear_power",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Higgs_boson",
+      "https://en.wikipedia.org/wiki/Cold_War",
+      "https://en.wikipedia.org/wiki/Cold_War",
+      "https://en.wikipedia.org/wiki/British_Empire",
+      "https://en.wikipedia.org/wiki/Cold_War"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 5.367
+  },
+  {
+    "mode": "hybrid",
+    "question": "What was the name of the country that Eisenhower gave his speech to ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Nuclear_power",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Cold_War",
+      "https://en.wikipedia.org/wiki/Cold_War",
+      "https://en.wikipedia.org/wiki/Higgs_boson",
+      "https://en.wikipedia.org/wiki/Cold_War",
+      "https://en.wikipedia.org/wiki/Cold_War"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 14.574
+  },
+  {
+    "mode": "dense",
+    "question": "What is the narrator 's view of the narrator 's ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Biodiversity",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Aesthetics",
+      "https://en.wikipedia.org/wiki/Film",
+      "https://en.wikipedia.org/wiki/Literature",
+      "https://en.wikipedia.org/wiki/Mythology",
+      "https://en.wikipedia.org/wiki/Friedrich_Nietzsche"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 3.87
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the narrator 's view of the narrator 's ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Biodiversity",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/International_Space_Station",
+      "https://en.wikipedia.org/wiki/International_Space_Station",
+      "https://en.wikipedia.org/wiki/Plato",
+      "https://en.wikipedia.org/wiki/Plato",
+      "https://en.wikipedia.org/wiki/Rule_of_law"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 7.354
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the narrator 's view of the narrator 's ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Biodiversity",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Aesthetics",
+      "https://en.wikipedia.org/wiki/International_Space_Station",
+      "https://en.wikipedia.org/wiki/Film",
+      "https://en.wikipedia.org/wiki/International_Space_Station",
+      "https://en.wikipedia.org/wiki/Literature"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 3.717
+  },
+  {
+    "mode": "dense",
+    "question": "What is the narrator 's view of recycling ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Circular_economy",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Circular_economy",
+      "https://en.wikipedia.org/wiki/Circular_economy",
+      "https://en.wikipedia.org/wiki/Circular_economy",
+      "https://en.wikipedia.org/wiki/Circular_economy",
+      "https://en.wikipedia.org/wiki/Circular_economy"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 4.243
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the narrator 's view of recycling ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Circular_economy",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Higgs_boson",
+      "https://en.wikipedia.org/wiki/Rule_of_law",
+      "https://en.wikipedia.org/wiki/Plato",
+      "https://en.wikipedia.org/wiki/Friedrich_Nietzsche",
+      "https://en.wikipedia.org/wiki/Friedrich_Nietzsche"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 2.25
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the narrator 's view of recycling ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Circular_economy",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Circular_economy",
+      "https://en.wikipedia.org/wiki/Higgs_boson",
+      "https://en.wikipedia.org/wiki/Circular_economy",
+      "https://en.wikipedia.org/wiki/Rule_of_law",
+      "https://en.wikipedia.org/wiki/Circular_economy"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 5.025
+  },
+  {
+    "mode": "dense",
+    "question": "What is the narrator 's occupation ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Deforestation",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Film",
+      "https://en.wikipedia.org/wiki/Existentialism",
+      "https://en.wikipedia.org/wiki/Existentialism",
+      "https://en.wikipedia.org/wiki/Literature",
+      "https://en.wikipedia.org/wiki/Art"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 1.578
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the narrator 's occupation ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Deforestation",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Higgs_boson",
+      "https://en.wikipedia.org/wiki/Plato",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Friedrich_Nietzsche"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 3.908
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the narrator 's occupation ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Deforestation",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Film",
+      "https://en.wikipedia.org/wiki/Higgs_boson",
+      "https://en.wikipedia.org/wiki/Existentialism",
+      "https://en.wikipedia.org/wiki/Plato",
+      "https://en.wikipedia.org/wiki/Existentialism"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 1.344
+  },
+  {
+    "mode": "dense",
+    "question": "What is the relationship between the two groups ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/String_theory",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Microsoft_Windows",
+      "https://en.wikipedia.org/wiki/Corporate_governance",
+      "https://en.wikipedia.org/wiki/Evolution",
+      "https://en.wikipedia.org/wiki/Evolution",
+      "https://en.wikipedia.org/wiki/Genetics"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 1.964
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the relationship between the two groups ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/String_theory",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Astronomy",
+      "https://en.wikipedia.org/wiki/Astronomy",
+      "https://en.wikipedia.org/wiki/Astronomy"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 14.125
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the relationship between the two groups ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/String_theory",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Microsoft_Windows",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Corporate_governance",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Evolution"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 3.718
+  },
+  {
+    "mode": "dense",
+    "question": "What is the average time of Earth 's Day ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Moon",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Mars",
+      "https://en.wikipedia.org/wiki/Mars",
+      "https://en.wikipedia.org/wiki/Moon",
+      "https://en.wikipedia.org/wiki/Moon",
+      "https://en.wikipedia.org/wiki/Planet"
+    ],
+    "rank": 3,
+    "reciprocal_rank": 0.3333333333333333,
+    "latency": 2.719
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the average time of Earth 's Day ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Moon",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Number_theory",
+      "https://en.wikipedia.org/wiki/Number_theory",
+      "https://en.wikipedia.org/wiki/Moon",
+      "https://en.wikipedia.org/wiki/Moon",
+      "https://en.wikipedia.org/wiki/Moon"
+    ],
+    "rank": 3,
+    "reciprocal_rank": 0.3333333333333333,
+    "latency": 11.412
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the average time of Earth 's Day ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Moon",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Moon",
+      "https://en.wikipedia.org/wiki/Mars",
+      "https://en.wikipedia.org/wiki/Number_theory",
+      "https://en.wikipedia.org/wiki/Mars",
+      "https://en.wikipedia.org/wiki/Number_theory"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 14.958
+  },
+  {
+    "mode": "dense",
+    "question": "What is the term for the term \"\" baseline , label , or tag \"\" ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Version_control",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Version_control",
+      "https://en.wikipedia.org/wiki/Version_control",
+      "https://en.wikipedia.org/wiki/Linguistics",
+      "https://en.wikipedia.org/wiki/Linguistics",
+      "https://en.wikipedia.org/wiki/Advertising"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 1.582
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the term for the term \"\" baseline , label , or tag \"\" ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Version_control",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Version_control",
+      "https://en.wikipedia.org/wiki/Version_control",
+      "https://en.wikipedia.org/wiki/Version_control",
+      "https://en.wikipedia.org/wiki/Version_control",
+      "https://en.wikipedia.org/wiki/Existentialism"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 14.438
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the term for the term \"\" baseline , label , or tag \"\" ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Version_control",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Version_control",
+      "https://en.wikipedia.org/wiki/Version_control",
+      "https://en.wikipedia.org/wiki/Version_control",
+      "https://en.wikipedia.org/wiki/Version_control",
+      "https://en.wikipedia.org/wiki/Linguistics"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 16.128
+  },
+  {
+    "mode": "dense",
+    "question": "What is the purpose of the  urbanizati '' ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Urbanization",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Demography",
+      "https://en.wikipedia.org/wiki/Demography",
+      "https://en.wikipedia.org/wiki/Urbanization",
+      "https://en.wikipedia.org/wiki/Urban_ecology",
+      "https://en.wikipedia.org/wiki/Urban_planning"
+    ],
+    "rank": 3,
+    "reciprocal_rank": 0.3333333333333333,
+    "latency": 2.691
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the purpose of the  urbanizati '' ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Urbanization",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Plato",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Philosophy"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 1.644
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the purpose of the  urbanizati '' ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Urbanization",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Demography",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Demography",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Urbanization"
+    ],
+    "rank": 5,
+    "reciprocal_rank": 0.2,
+    "latency": 1.983
+  },
+  {
+    "mode": "dense",
+    "question": "What is the narrator 's position on the mantle ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Mars",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Plate_tectonics",
+      "https://en.wikipedia.org/wiki/Plate_tectonics",
+      "https://en.wikipedia.org/wiki/Carbon_cycle",
+      "https://en.wikipedia.org/wiki/Plate_tectonics",
+      "https://en.wikipedia.org/wiki/Plate_tectonics"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 3.958
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the narrator 's position on the mantle ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Mars",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Mars",
+      "https://en.wikipedia.org/wiki/Mars",
+      "https://en.wikipedia.org/wiki/Friedrich_Nietzsche"
+    ],
+    "rank": 3,
+    "reciprocal_rank": 0.3333333333333333,
+    "latency": 1.689
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the narrator 's position on the mantle ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Mars",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Plate_tectonics",
+      "https://en.wikipedia.org/wiki/Plate_tectonics",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Plate_tectonics",
+      "https://en.wikipedia.org/wiki/Philosophy"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 1.583
+  },
+  {
+    "mode": "dense",
+    "question": "What is the main reason for the convergent random variable ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Probability_theory",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Probability_theory",
+      "https://en.wikipedia.org/wiki/Probability_theory",
+      "https://en.wikipedia.org/wiki/Probability_theory",
+      "https://en.wikipedia.org/wiki/Probability_theory",
+      "https://en.wikipedia.org/wiki/Probability_theory"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 2.627
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the main reason for the convergent random variable ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Probability_theory",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Number_theory",
+      "https://en.wikipedia.org/wiki/Number_theory",
+      "https://en.wikipedia.org/wiki/Random_forest",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Philosophy"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 1.653
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the main reason for the convergent random variable ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Probability_theory",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Probability_theory",
+      "https://en.wikipedia.org/wiki/Probability_theory",
+      "https://en.wikipedia.org/wiki/Number_theory",
+      "https://en.wikipedia.org/wiki/Probability_theory",
+      "https://en.wikipedia.org/wiki/Number_theory"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 1.289
+  },
+  {
+    "mode": "dense",
+    "question": "What is the name of the tetramer that was thought to be a tetramer ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/DNA",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Pathology",
+      "https://en.wikipedia.org/wiki/Germany",
+      "https://en.wikipedia.org/wiki/Planet",
+      "https://en.wikipedia.org/wiki/String_theory",
+      "https://en.wikipedia.org/wiki/String_theory"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 2.833
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the name of the tetramer that was thought to be a tetramer ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/DNA",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/DNA",
+      "https://en.wikipedia.org/wiki/DNA",
+      "https://en.wikipedia.org/wiki/Higgs_boson",
+      "https://en.wikipedia.org/wiki/Friedrich_Nietzsche",
+      "https://en.wikipedia.org/wiki/Friedrich_Nietzsche"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 7.855
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the name of the tetramer that was thought to be a tetramer ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/DNA",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Pathology",
+      "https://en.wikipedia.org/wiki/DNA",
+      "https://en.wikipedia.org/wiki/Germany",
+      "https://en.wikipedia.org/wiki/DNA",
+      "https://en.wikipedia.org/wiki/Planet"
+    ],
+    "rank": 2,
+    "reciprocal_rank": 0.5,
+    "latency": 3.843
+  },
+  {
+    "mode": "dense",
+    "question": "What is the narrator 's main purpose in sleeping ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Human_brain",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Memory",
+      "https://en.wikipedia.org/wiki/Memory",
+      "https://en.wikipedia.org/wiki/Aristotle",
+      "https://en.wikipedia.org/wiki/Human_brain",
+      "https://en.wikipedia.org/wiki/Human_brain"
+    ],
+    "rank": 4,
+    "reciprocal_rank": 0.25,
+    "latency": 1.546
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the narrator 's main purpose in sleeping ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Human_brain",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Plato",
+      "https://en.wikipedia.org/wiki/Plato",
+      "https://en.wikipedia.org/wiki/Higgs_boson",
+      "https://en.wikipedia.org/wiki/Number_theory",
+      "https://en.wikipedia.org/wiki/Number_theory"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 3.224
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the narrator 's main purpose in sleeping ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Human_brain",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Memory",
+      "https://en.wikipedia.org/wiki/Plato",
+      "https://en.wikipedia.org/wiki/Memory",
+      "https://en.wikipedia.org/wiki/Plato",
+      "https://en.wikipedia.org/wiki/Aristotle"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 3.053
+  },
+  {
+    "mode": "dense",
+    "question": "What is the reason for the self-ascription of the represent ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Immanuel_Kant",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Semantics",
+      "https://en.wikipedia.org/wiki/Semantics",
+      "https://en.wikipedia.org/wiki/Aesthetics",
+      "https://en.wikipedia.org/wiki/Immanuel_Kant",
+      "https://en.wikipedia.org/wiki/Natural_language_processing"
+    ],
+    "rank": 4,
+    "reciprocal_rank": 0.25,
+    "latency": 2.894
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the reason for the self-ascription of the represent ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Immanuel_Kant",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Higgs_boson",
+      "https://en.wikipedia.org/wiki/Astronomy",
+      "https://en.wikipedia.org/wiki/Astronomy"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 14.985
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the reason for the self-ascription of the represent ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Immanuel_Kant",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Semantics",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Semantics",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Aesthetics"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 2.086
+  },
+  {
+    "mode": "dense",
+    "question": "What was the name of the school that was founded in 1916 ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Public_health",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Higher_education",
+      "https://en.wikipedia.org/wiki/Higher_education",
+      "https://en.wikipedia.org/wiki/International_relations",
+      "https://en.wikipedia.org/wiki/Secondary_education",
+      "https://en.wikipedia.org/wiki/Secondary_education"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 14.276
+  },
+  {
+    "mode": "sparse",
+    "question": "What was the name of the school that was founded in 1916 ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Public_health",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Higgs_boson",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Plato",
+      "https://en.wikipedia.org/wiki/Higgs_boson"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 4.11
+  },
+  {
+    "mode": "hybrid",
+    "question": "What was the name of the school that was founded in 1916 ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Public_health",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Higher_education",
+      "https://en.wikipedia.org/wiki/Higgs_boson",
+      "https://en.wikipedia.org/wiki/Higher_education",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/International_relations"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 1.962
+  },
+  {
+    "mode": "dense",
+    "question": "What is the relationship between the two religions ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Religion",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Culture",
+      "https://en.wikipedia.org/wiki/Religion",
+      "https://en.wikipedia.org/wiki/Culture",
+      "https://en.wikipedia.org/wiki/Religion",
+      "https://en.wikipedia.org/wiki/Religion"
+    ],
+    "rank": 2,
+    "reciprocal_rank": 0.5,
+    "latency": 2.221
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the relationship between the two religions ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Religion",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Astronomy",
+      "https://en.wikipedia.org/wiki/Astronomy",
+      "https://en.wikipedia.org/wiki/Astronomy"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 14.307
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the relationship between the two religions ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Religion",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Culture",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Religion",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Culture"
+    ],
+    "rank": 3,
+    "reciprocal_rank": 0.3333333333333333,
+    "latency": 14.079
+  },
+  {
+    "mode": "dense",
+    "question": "What is the earliest period of the period of narrative history ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/French_Revolution",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Literature",
+      "https://en.wikipedia.org/wiki/Theatre",
+      "https://en.wikipedia.org/wiki/Mythology",
+      "https://en.wikipedia.org/wiki/Literature",
+      "https://en.wikipedia.org/wiki/Literature"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 7.257
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the earliest period of the period of narrative history ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/French_Revolution",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Ethics",
+      "https://en.wikipedia.org/wiki/Ethics",
+      "https://en.wikipedia.org/wiki/Ethics",
+      "https://en.wikipedia.org/wiki/Music",
+      "https://en.wikipedia.org/wiki/Literature"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 3.477
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the earliest period of the period of narrative history ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/French_Revolution",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Literature",
+      "https://en.wikipedia.org/wiki/Ethics",
+      "https://en.wikipedia.org/wiki/Theatre",
+      "https://en.wikipedia.org/wiki/Ethics",
+      "https://en.wikipedia.org/wiki/Mythology"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 4.808
+  },
+  {
+    "mode": "dense",
+    "question": "What is the n-h displaystyle lambda ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Entropy_(information_theory)",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Cosmology",
+      "https://en.wikipedia.org/wiki/Support_vector_machine",
+      "https://en.wikipedia.org/wiki/Support_vector_machine",
+      "https://en.wikipedia.org/wiki/Linux",
+      "https://en.wikipedia.org/wiki/Linux"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 14.678
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the n-h displaystyle lambda ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Entropy_(information_theory)",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Astronomy",
+      "https://en.wikipedia.org/wiki/Astronomy",
+      "https://en.wikipedia.org/wiki/Astronomy"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 14.705
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the n-h displaystyle lambda ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Entropy_(information_theory)",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Cosmology",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Support_vector_machine",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Support_vector_machine"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 2.484
+  },
+  {
+    "mode": "dense",
+    "question": "What is the reason for the treatment of mental health problems ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Psychology",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Mental_health",
+      "https://en.wikipedia.org/wiki/Mental_health",
+      "https://en.wikipedia.org/wiki/Mental_health",
+      "https://en.wikipedia.org/wiki/Mental_health",
+      "https://en.wikipedia.org/wiki/Mental_health"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 3.524
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the reason for the treatment of mental health problems ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Psychology",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Mental_health",
+      "https://en.wikipedia.org/wiki/Mental_health",
+      "https://en.wikipedia.org/wiki/Mental_health",
+      "https://en.wikipedia.org/wiki/Mental_health",
+      "https://en.wikipedia.org/wiki/Mental_health"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 14.365
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the reason for the treatment of mental health problems ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Psychology",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Mental_health",
+      "https://en.wikipedia.org/wiki/Mental_health",
+      "https://en.wikipedia.org/wiki/Mental_health",
+      "https://en.wikipedia.org/wiki/Mental_health",
+      "https://en.wikipedia.org/wiki/Mental_health"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 4.033
+  },
+  {
+    "mode": "dense",
+    "question": "What is the name of the treatise that Cavalieri 's work was not well respected?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Calculus",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Linear_algebra",
+      "https://en.wikipedia.org/wiki/Calculus",
+      "https://en.wikipedia.org/wiki/Calculus",
+      "https://en.wikipedia.org/wiki/Constitution",
+      "https://en.wikipedia.org/wiki/Roman_Empire"
+    ],
+    "rank": 2,
+    "reciprocal_rank": 0.5,
+    "latency": 8.394
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the name of the treatise that Cavalieri 's work was not well respected?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Calculus",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Calculus",
+      "https://en.wikipedia.org/wiki/Calculus",
+      "https://en.wikipedia.org/wiki/Calculus",
+      "https://en.wikipedia.org/wiki/Calculus",
+      "https://en.wikipedia.org/wiki/Calculus"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 14.901
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the name of the treatise that Cavalieri 's work was not well respected?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Calculus",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Linear_algebra",
+      "https://en.wikipedia.org/wiki/Calculus",
+      "https://en.wikipedia.org/wiki/Calculus",
+      "https://en.wikipedia.org/wiki/Calculus",
+      "https://en.wikipedia.org/wiki/Calculus"
+    ],
+    "rank": 2,
+    "reciprocal_rank": 0.5,
+    "latency": 2.598
+  },
+  {
+    "mode": "dense",
+    "question": "What is the reason for a clinical trial ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Clinical_trial",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Clinical_trial",
+      "https://en.wikipedia.org/wiki/Clinical_trial",
+      "https://en.wikipedia.org/wiki/Clinical_trial",
+      "https://en.wikipedia.org/wiki/Clinical_trial",
+      "https://en.wikipedia.org/wiki/Clinical_trial"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 2.573
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the reason for a clinical trial ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Clinical_trial",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Clinical_trial",
+      "https://en.wikipedia.org/wiki/Clinical_trial",
+      "https://en.wikipedia.org/wiki/Clinical_trial",
+      "https://en.wikipedia.org/wiki/Clinical_trial",
+      "https://en.wikipedia.org/wiki/Clinical_trial"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 2.417
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the reason for a clinical trial ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Clinical_trial",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Clinical_trial",
+      "https://en.wikipedia.org/wiki/Clinical_trial",
+      "https://en.wikipedia.org/wiki/Clinical_trial",
+      "https://en.wikipedia.org/wiki/Clinical_trial",
+      "https://en.wikipedia.org/wiki/Clinical_trial"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 3.799
+  },
+  {
+    "mode": "dense",
+    "question": "What is the main reason for the debate ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Sustainable_development",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Ethics",
+      "https://en.wikipedia.org/wiki/Ethics",
+      "https://en.wikipedia.org/wiki/Ethics"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 3.473
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the main reason for the debate ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Sustainable_development",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Number_theory",
+      "https://en.wikipedia.org/wiki/Number_theory",
+      "https://en.wikipedia.org/wiki/Higgs_boson"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 14.128
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the main reason for the debate ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Sustainable_development",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Ethics"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 14.409
+  },
+  {
+    "mode": "dense",
+    "question": "What is the narrator 's remark about ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Entropy_(information_theory)",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Semantics",
+      "https://en.wikipedia.org/wiki/Pragmatics",
+      "https://en.wikipedia.org/wiki/Logic",
+      "https://en.wikipedia.org/wiki/Logic",
+      "https://en.wikipedia.org/wiki/Logic"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 4.712
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the narrator 's remark about ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Entropy_(information_theory)",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Astronomy",
+      "https://en.wikipedia.org/wiki/Astronomy",
+      "https://en.wikipedia.org/wiki/Astronomy",
+      "https://en.wikipedia.org/wiki/Higgs_boson",
+      "https://en.wikipedia.org/wiki/Plato"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 1.648
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the narrator 's remark about ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Entropy_(information_theory)",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Existentialism",
+      "https://en.wikipedia.org/wiki/Semantics",
+      "https://en.wikipedia.org/wiki/Astronomy",
+      "https://en.wikipedia.org/wiki/Pragmatics",
+      "https://en.wikipedia.org/wiki/Astronomy"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 2.619
+  },
+  {
+    "mode": "dense",
+    "question": "What is the name of the system that will cover 95 percent of driving scenarios on 2 million miles of roads in the us ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Autonomous_car",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Autonomous_car",
+      "https://en.wikipedia.org/wiki/Electric_vehicle",
+      "https://en.wikipedia.org/wiki/Electric_vehicle",
+      "https://en.wikipedia.org/wiki/Electric_vehicle",
+      "https://en.wikipedia.org/wiki/Autonomous_car"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 4.992
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the name of the system that will cover 95 percent of driving scenarios on 2 million miles of roads in the us ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Autonomous_car",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Autonomous_car",
+      "https://en.wikipedia.org/wiki/Autonomous_car",
+      "https://en.wikipedia.org/wiki/Autonomous_car",
+      "https://en.wikipedia.org/wiki/Cognitive_science",
+      "https://en.wikipedia.org/wiki/Cognitive_science"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 5.192
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the name of the system that will cover 95 percent of driving scenarios on 2 million miles of roads in the us ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Autonomous_car",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Autonomous_car",
+      "https://en.wikipedia.org/wiki/Autonomous_car",
+      "https://en.wikipedia.org/wiki/Electric_vehicle",
+      "https://en.wikipedia.org/wiki/Autonomous_car",
+      "https://en.wikipedia.org/wiki/Electric_vehicle"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 6.306
+  },
+  {
+    "mode": "dense",
+    "question": "What is the name of the organization that helps the artists and entrepreneurs in the country ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Canada",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Entrepreneurship",
+      "https://en.wikipedia.org/wiki/Tourism",
+      "https://en.wikipedia.org/wiki/Entrepreneurship",
+      "https://en.wikipedia.org/wiki/Canada",
+      "https://en.wikipedia.org/wiki/Entrepreneurship"
+    ],
+    "rank": 4,
+    "reciprocal_rank": 0.25,
+    "latency": 1.51
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the name of the organization that helps the artists and entrepreneurs in the country ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Canada",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Canada",
+      "https://en.wikipedia.org/wiki/Higgs_boson",
+      "https://en.wikipedia.org/wiki/Plato",
+      "https://en.wikipedia.org/wiki/Entrepreneurship",
+      "https://en.wikipedia.org/wiki/Philosophy"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 2.082
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the name of the organization that helps the artists and entrepreneurs in the country ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Canada",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Canada",
+      "https://en.wikipedia.org/wiki/Entrepreneurship",
+      "https://en.wikipedia.org/wiki/Tourism",
+      "https://en.wikipedia.org/wiki/Higgs_boson",
+      "https://en.wikipedia.org/wiki/Entrepreneurship"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 1.361
+  },
+  {
+    "mode": "dense",
+    "question": "What is the reason for the proletariat being in control of the communist states ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Communism",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Communism",
+      "https://en.wikipedia.org/wiki/Communism",
+      "https://en.wikipedia.org/wiki/Communism",
+      "https://en.wikipedia.org/wiki/Communism",
+      "https://en.wikipedia.org/wiki/Socialism"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 5.821
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the reason for the proletariat being in control of the communist states ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Communism",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Communism",
+      "https://en.wikipedia.org/wiki/Communism",
+      "https://en.wikipedia.org/wiki/Communism",
+      "https://en.wikipedia.org/wiki/Communism",
+      "https://en.wikipedia.org/wiki/Communism"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 5.385
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the reason for the proletariat being in control of the communist states ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Communism",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Communism",
+      "https://en.wikipedia.org/wiki/Communism",
+      "https://en.wikipedia.org/wiki/Communism",
+      "https://en.wikipedia.org/wiki/Communism",
+      "https://en.wikipedia.org/wiki/Communism"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 1.664
+  },
+  {
+    "mode": "dense",
+    "question": "What is the cause of death in people with diabetes ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Diabetes",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Heart_disease",
+      "https://en.wikipedia.org/wiki/Diabetes",
+      "https://en.wikipedia.org/wiki/Diabetes",
+      "https://en.wikipedia.org/wiki/Diabetes",
+      "https://en.wikipedia.org/wiki/Heart_disease"
+    ],
+    "rank": 2,
+    "reciprocal_rank": 0.5,
+    "latency": 1.516
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the cause of death in people with diabetes ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Diabetes",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Diabetes",
+      "https://en.wikipedia.org/wiki/Diabetes",
+      "https://en.wikipedia.org/wiki/Diabetes",
+      "https://en.wikipedia.org/wiki/Diabetes",
+      "https://en.wikipedia.org/wiki/Diabetes"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 1.287
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the cause of death in people with diabetes ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Diabetes",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Diabetes",
+      "https://en.wikipedia.org/wiki/Diabetes",
+      "https://en.wikipedia.org/wiki/Diabetes",
+      "https://en.wikipedia.org/wiki/Heart_disease",
+      "https://en.wikipedia.org/wiki/Diabetes"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 2.168
+  },
+  {
+    "mode": "dense",
+    "question": "What is the best way to estimate the likelihood ratio ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Reinforcement_learning",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Statistics",
+      "https://en.wikipedia.org/wiki/Statistics",
+      "https://en.wikipedia.org/wiki/Statistics",
+      "https://en.wikipedia.org/wiki/Bayesian_inference",
+      "https://en.wikipedia.org/wiki/Bayesian_inference"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 1.508
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the best way to estimate the likelihood ratio ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Reinforcement_learning",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Friedrich_Nietzsche",
+      "https://en.wikipedia.org/wiki/Friedrich_Nietzsche",
+      "https://en.wikipedia.org/wiki/Demography"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 1.537
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the best way to estimate the likelihood ratio ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Reinforcement_learning",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Statistics",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Statistics",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Statistics"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 1.927
+  },
+  {
+    "mode": "dense",
+    "question": "What is the physical display of emotion ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Emotion",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Memory",
+      "https://en.wikipedia.org/wiki/Emotion",
+      "https://en.wikipedia.org/wiki/Emotion",
+      "https://en.wikipedia.org/wiki/Emotion",
+      "https://en.wikipedia.org/wiki/Emotion"
+    ],
+    "rank": 2,
+    "reciprocal_rank": 0.5,
+    "latency": 4.816
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the physical display of emotion ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Emotion",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Emotion",
+      "https://en.wikipedia.org/wiki/Emotion",
+      "https://en.wikipedia.org/wiki/Emotion",
+      "https://en.wikipedia.org/wiki/Emotion",
+      "https://en.wikipedia.org/wiki/Emotion"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 4.353
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the physical display of emotion ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Emotion",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Memory",
+      "https://en.wikipedia.org/wiki/Emotion",
+      "https://en.wikipedia.org/wiki/Emotion",
+      "https://en.wikipedia.org/wiki/Emotion",
+      "https://en.wikipedia.org/wiki/Emotion"
+    ],
+    "rank": 2,
+    "reciprocal_rank": 0.5,
+    "latency": 2.055
+  },
+  {
+    "mode": "dense",
+    "question": "What is the main reason for India 's economic , strategic and military cooperation with the United States and the European Union ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/India",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/India",
+      "https://en.wikipedia.org/wiki/India",
+      "https://en.wikipedia.org/wiki/India",
+      "https://en.wikipedia.org/wiki/India",
+      "https://en.wikipedia.org/wiki/India"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 6.443
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the main reason for India 's economic , strategic and military cooperation with the United States and the European Union ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/India",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/India",
+      "https://en.wikipedia.org/wiki/India",
+      "https://en.wikipedia.org/wiki/United_States",
+      "https://en.wikipedia.org/wiki/European_Union",
+      "https://en.wikipedia.org/wiki/Japan"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 14.115
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the main reason for India 's economic , strategic and military cooperation with the United States and the European Union ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/India",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/India",
+      "https://en.wikipedia.org/wiki/India",
+      "https://en.wikipedia.org/wiki/India",
+      "https://en.wikipedia.org/wiki/India",
+      "https://en.wikipedia.org/wiki/United_States"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 3.436
+  },
+  {
+    "mode": "dense",
+    "question": "What is the difference between agile software development methods and waterfall ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Agile_software_development",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Software_engineering",
+      "https://en.wikipedia.org/wiki/Software_engineering",
+      "https://en.wikipedia.org/wiki/Agile_software_development",
+      "https://en.wikipedia.org/wiki/Agile_software_development",
+      "https://en.wikipedia.org/wiki/Agile_software_development"
+    ],
+    "rank": 3,
+    "reciprocal_rank": 0.3333333333333333,
+    "latency": 2.081
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the difference between agile software development methods and waterfall ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Agile_software_development",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Agile_software_development",
+      "https://en.wikipedia.org/wiki/Agile_software_development",
+      "https://en.wikipedia.org/wiki/Agile_software_development",
+      "https://en.wikipedia.org/wiki/Agile_software_development",
+      "https://en.wikipedia.org/wiki/Agile_software_development"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 1.419
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the difference between agile software development methods and waterfall ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Agile_software_development",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Agile_software_development",
+      "https://en.wikipedia.org/wiki/Software_engineering",
+      "https://en.wikipedia.org/wiki/Agile_software_development",
+      "https://en.wikipedia.org/wiki/Software_engineering",
+      "https://en.wikipedia.org/wiki/Agile_software_development"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 1.985
+  },
+  {
+    "mode": "dense",
+    "question": "What is the definition of standard deviation ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Statistics",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Statistics",
+      "https://en.wikipedia.org/wiki/Statistics",
+      "https://en.wikipedia.org/wiki/Statistics",
+      "https://en.wikipedia.org/wiki/Lean_manufacturing",
+      "https://en.wikipedia.org/wiki/Probability_theory"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 1.465
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the definition of standard deviation ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Statistics",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Astronomy",
+      "https://en.wikipedia.org/wiki/Astronomy",
+      "https://en.wikipedia.org/wiki/Astronomy",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Philosophy"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 3.591
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the definition of standard deviation ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Statistics",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Statistics",
+      "https://en.wikipedia.org/wiki/Astronomy",
+      "https://en.wikipedia.org/wiki/Statistics",
+      "https://en.wikipedia.org/wiki/Astronomy",
+      "https://en.wikipedia.org/wiki/Statistics"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 1.447
+  },
+  {
+    "mode": "dense",
+    "question": "What is the reason for the epistemic approach to fallacies ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Epistemology",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Epistemology",
+      "https://en.wikipedia.org/wiki/Epistemology",
+      "https://en.wikipedia.org/wiki/Epistemology",
+      "https://en.wikipedia.org/wiki/Logic",
+      "https://en.wikipedia.org/wiki/Logic"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 4.789
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the reason for the epistemic approach to fallacies ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Epistemology",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Logic",
+      "https://en.wikipedia.org/wiki/Logic",
+      "https://en.wikipedia.org/wiki/Logic",
+      "https://en.wikipedia.org/wiki/Epistemology",
+      "https://en.wikipedia.org/wiki/Epistemology"
+    ],
+    "rank": 4,
+    "reciprocal_rank": 0.25,
+    "latency": 3.117
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the reason for the epistemic approach to fallacies ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Epistemology",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Epistemology",
+      "https://en.wikipedia.org/wiki/Logic",
+      "https://en.wikipedia.org/wiki/Epistemology",
+      "https://en.wikipedia.org/wiki/Logic",
+      "https://en.wikipedia.org/wiki/Epistemology"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 13.944
+  },
+  {
+    "mode": "dense",
+    "question": "What is the main objective of the report ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Circular_economy",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Psychology",
+      "https://en.wikipedia.org/wiki/Psychology",
+      "https://en.wikipedia.org/wiki/Psychology",
+      "https://en.wikipedia.org/wiki/Corporate_strategy",
+      "https://en.wikipedia.org/wiki/Strategic_management"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 1.874
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the main objective of the report ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Circular_economy",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Aesthetics",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Astronomy",
+      "https://en.wikipedia.org/wiki/Astronomy"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 1.569
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the main objective of the report ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Circular_economy",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Psychology",
+      "https://en.wikipedia.org/wiki/Aesthetics",
+      "https://en.wikipedia.org/wiki/Psychology",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Psychology"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 1.437
+  },
+  {
+    "mode": "dense",
+    "question": "What is the name of the market that is a share market ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Stock_market",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Recession",
+      "https://en.wikipedia.org/wiki/Stock_market",
+      "https://en.wikipedia.org/wiki/Stock_market",
+      "https://en.wikipedia.org/wiki/Stock_market",
+      "https://en.wikipedia.org/wiki/Stock_market"
+    ],
+    "rank": 2,
+    "reciprocal_rank": 0.5,
+    "latency": 14.247
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the name of the market that is a share market ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Stock_market",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Android_(operating_system)",
+      "https://en.wikipedia.org/wiki/Higgs_boson",
+      "https://en.wikipedia.org/wiki/Microsoft_Windows",
+      "https://en.wikipedia.org/wiki/Digital_media",
+      "https://en.wikipedia.org/wiki/Stock_market"
+    ],
+    "rank": 5,
+    "reciprocal_rank": 0.2,
+    "latency": 14.017
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the name of the market that is a share market ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Stock_market",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Stock_market",
+      "https://en.wikipedia.org/wiki/Recession",
+      "https://en.wikipedia.org/wiki/Android_(operating_system)",
+      "https://en.wikipedia.org/wiki/Stock_market",
+      "https://en.wikipedia.org/wiki/Higgs_boson"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 6.928
+  },
+  {
+    "mode": "dense",
+    "question": "What is the reason for the IMF funding ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/International_Monetary_Fund",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/International_Monetary_Fund",
+      "https://en.wikipedia.org/wiki/International_Monetary_Fund",
+      "https://en.wikipedia.org/wiki/International_Monetary_Fund",
+      "https://en.wikipedia.org/wiki/International_Monetary_Fund",
+      "https://en.wikipedia.org/wiki/International_Monetary_Fund"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 3.177
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the reason for the IMF funding ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/International_Monetary_Fund",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Higgs_boson",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/International_Monetary_Fund",
+      "https://en.wikipedia.org/wiki/International_Monetary_Fund"
+    ],
+    "rank": 4,
+    "reciprocal_rank": 0.25,
+    "latency": 3.789
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the reason for the IMF funding ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/International_Monetary_Fund",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/International_Monetary_Fund",
+      "https://en.wikipedia.org/wiki/Higgs_boson",
+      "https://en.wikipedia.org/wiki/International_Monetary_Fund",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/International_Monetary_Fund"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 1.298
+  },
+  {
+    "mode": "dense",
+    "question": "What is the name of the software that is used to control , organize and track different versions in history of computer files ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Version_control",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Agile_software_development",
+      "https://en.wikipedia.org/wiki/Agile_software_development",
+      "https://en.wikipedia.org/wiki/Version_control",
+      "https://en.wikipedia.org/wiki/Version_control",
+      "https://en.wikipedia.org/wiki/Agile_software_development"
+    ],
+    "rank": 3,
+    "reciprocal_rank": 0.3333333333333333,
+    "latency": 1.694
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the name of the software that is used to control , organize and track different versions in history of computer files ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Version_control",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Version_control",
+      "https://en.wikipedia.org/wiki/Version_control",
+      "https://en.wikipedia.org/wiki/Version_control",
+      "https://en.wikipedia.org/wiki/Version_control",
+      "https://en.wikipedia.org/wiki/Git"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 2.657
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the name of the software that is used to control , organize and track different versions in history of computer files ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Version_control",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Version_control",
+      "https://en.wikipedia.org/wiki/Version_control",
+      "https://en.wikipedia.org/wiki/Agile_software_development",
+      "https://en.wikipedia.org/wiki/Agile_software_development",
+      "https://en.wikipedia.org/wiki/Version_control"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 1.609
+  },
+  {
+    "mode": "dense",
+    "question": "What is the relationship between the plates and the earth ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Plate_tectonics",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Plate_tectonics",
+      "https://en.wikipedia.org/wiki/Plate_tectonics",
+      "https://en.wikipedia.org/wiki/Tsunami",
+      "https://en.wikipedia.org/wiki/Plate_tectonics",
+      "https://en.wikipedia.org/wiki/Plate_tectonics"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 1.813
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the relationship between the plates and the earth ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Plate_tectonics",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Friedrich_Nietzsche",
+      "https://en.wikipedia.org/wiki/Friedrich_Nietzsche",
+      "https://en.wikipedia.org/wiki/Friedrich_Nietzsche",
+      "https://en.wikipedia.org/wiki/Friedrich_Nietzsche",
+      "https://en.wikipedia.org/wiki/Philosophy"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 1.552
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the relationship between the plates and the earth ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Plate_tectonics",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Plate_tectonics",
+      "https://en.wikipedia.org/wiki/Friedrich_Nietzsche",
+      "https://en.wikipedia.org/wiki/Plate_tectonics",
+      "https://en.wikipedia.org/wiki/Friedrich_Nietzsche",
+      "https://en.wikipedia.org/wiki/Tsunami"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 4.159
+  },
+  {
+    "mode": "dense",
+    "question": "What is the reason for the  golden handshakes '' ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Corporate_governance",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Phonetics",
+      "https://en.wikipedia.org/wiki/Phonetics",
+      "https://en.wikipedia.org/wiki/Phonetics",
+      "https://en.wikipedia.org/wiki/Phonetics",
+      "https://en.wikipedia.org/wiki/India"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 3.437
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the reason for the  golden handshakes '' ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Corporate_governance",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Corporate_governance",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Higgs_boson",
+      "https://en.wikipedia.org/wiki/Astronomy"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 3.652
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the reason for the  golden handshakes '' ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Corporate_governance",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Phonetics",
+      "https://en.wikipedia.org/wiki/Corporate_governance",
+      "https://en.wikipedia.org/wiki/Phonetics",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Phonetics"
+    ],
+    "rank": 2,
+    "reciprocal_rank": 0.5,
+    "latency": 13.951
+  },
+  {
+    "mode": "dense",
+    "question": "What is the name of the author of the book ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/String_theory",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Environmental_protection",
+      "https://en.wikipedia.org/wiki/Literature",
+      "https://en.wikipedia.org/wiki/United_States",
+      "https://en.wikipedia.org/wiki/Existentialism",
+      "https://en.wikipedia.org/wiki/Existentialism"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 2.315
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the name of the author of the book ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/String_theory",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Higgs_boson",
+      "https://en.wikipedia.org/wiki/Higgs_boson",
+      "https://en.wikipedia.org/wiki/Astronomy",
+      "https://en.wikipedia.org/wiki/Astronomy",
+      "https://en.wikipedia.org/wiki/Astronomy"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 5.236
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the name of the author of the book ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/String_theory",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Environmental_protection",
+      "https://en.wikipedia.org/wiki/Higgs_boson",
+      "https://en.wikipedia.org/wiki/Literature",
+      "https://en.wikipedia.org/wiki/Higgs_boson",
+      "https://en.wikipedia.org/wiki/United_States"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 1.445
+  },
+  {
+    "mode": "dense",
+    "question": "What is the name of the company that is the oldest in the world ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/France",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Education",
+      "https://en.wikipedia.org/wiki/Maritime_transport",
+      "https://en.wikipedia.org/wiki/China",
+      "https://en.wikipedia.org/wiki/Automobile",
+      "https://en.wikipedia.org/wiki/Greenhouse_gas"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 1.724
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the name of the company that is the oldest in the world ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/France",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Higgs_boson",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Plato",
+      "https://en.wikipedia.org/wiki/Higgs_boson"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 3.911
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the name of the company that is the oldest in the world ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/France",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Education",
+      "https://en.wikipedia.org/wiki/Higgs_boson",
+      "https://en.wikipedia.org/wiki/Maritime_transport",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/China"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 3.505
+  },
+  {
+    "mode": "dense",
+    "question": "What is the smallest form of crater ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Moon",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Moon",
+      "https://en.wikipedia.org/wiki/Moon",
+      "https://en.wikipedia.org/wiki/Mars",
+      "https://en.wikipedia.org/wiki/Mars",
+      "https://en.wikipedia.org/wiki/Moon"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 2.332
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the smallest form of crater ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Moon",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Astronomy",
+      "https://en.wikipedia.org/wiki/Astronomy",
+      "https://en.wikipedia.org/wiki/Astronomy"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 13.846
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the smallest form of crater ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Moon",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Moon",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Moon",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Mars"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 3.122
+  },
+  {
+    "mode": "dense",
+    "question": "What may be the cause of stress ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Memory",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Memory",
+      "https://en.wikipedia.org/wiki/Memory",
+      "https://en.wikipedia.org/wiki/Memory",
+      "https://en.wikipedia.org/wiki/Memory",
+      "https://en.wikipedia.org/wiki/Heart_disease"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 2.418
+  },
+  {
+    "mode": "sparse",
+    "question": "What may be the cause of stress ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Memory",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Astronomy",
+      "https://en.wikipedia.org/wiki/Astronomy",
+      "https://en.wikipedia.org/wiki/Astronomy",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Philosophy"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 3.676
+  },
+  {
+    "mode": "hybrid",
+    "question": "What may be the cause of stress ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Memory",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Memory",
+      "https://en.wikipedia.org/wiki/Astronomy",
+      "https://en.wikipedia.org/wiki/Memory",
+      "https://en.wikipedia.org/wiki/Astronomy",
+      "https://en.wikipedia.org/wiki/Memory"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 2.148
+  },
+  {
+    "mode": "dense",
+    "question": "What was the name of the mandate that was supervised by the League of Nations ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/League_of_Nations",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/League_of_Nations",
+      "https://en.wikipedia.org/wiki/League_of_Nations",
+      "https://en.wikipedia.org/wiki/Human_rights",
+      "https://en.wikipedia.org/wiki/Human_rights",
+      "https://en.wikipedia.org/wiki/League_of_Nations"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 6.787
+  },
+  {
+    "mode": "sparse",
+    "question": "What was the name of the mandate that was supervised by the League of Nations ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/League_of_Nations",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/League_of_Nations",
+      "https://en.wikipedia.org/wiki/League_of_Nations",
+      "https://en.wikipedia.org/wiki/League_of_Nations",
+      "https://en.wikipedia.org/wiki/League_of_Nations",
+      "https://en.wikipedia.org/wiki/League_of_Nations"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 3.245
+  },
+  {
+    "mode": "hybrid",
+    "question": "What was the name of the mandate that was supervised by the League of Nations ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/League_of_Nations",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/League_of_Nations",
+      "https://en.wikipedia.org/wiki/League_of_Nations",
+      "https://en.wikipedia.org/wiki/League_of_Nations",
+      "https://en.wikipedia.org/wiki/League_of_Nations",
+      "https://en.wikipedia.org/wiki/League_of_Nations"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 5.349
+  },
+  {
+    "mode": "dense",
+    "question": "What was the mission renamed ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Apollo_program",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Apollo_program",
+      "https://en.wikipedia.org/wiki/NATO",
+      "https://en.wikipedia.org/wiki/Apollo_program",
+      "https://en.wikipedia.org/wiki/Apollo_program",
+      "https://en.wikipedia.org/wiki/Apollo_program"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 2.294
+  },
+  {
+    "mode": "sparse",
+    "question": "What was the mission renamed ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Apollo_program",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Astronomy",
+      "https://en.wikipedia.org/wiki/Astronomy",
+      "https://en.wikipedia.org/wiki/Astronomy",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Philosophy"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 3.708
+  },
+  {
+    "mode": "hybrid",
+    "question": "What was the mission renamed ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Apollo_program",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Apollo_program",
+      "https://en.wikipedia.org/wiki/Astronomy",
+      "https://en.wikipedia.org/wiki/NATO",
+      "https://en.wikipedia.org/wiki/Astronomy",
+      "https://en.wikipedia.org/wiki/Apollo_program"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 3.141
+  },
+  {
+    "mode": "dense",
+    "question": "What is the name of the power station that was used to power a single arc lamp ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Hydroelectricity",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Wind_power",
+      "https://en.wikipedia.org/wiki/Hydroelectricity",
+      "https://en.wikipedia.org/wiki/Wind_power",
+      "https://en.wikipedia.org/wiki/Wind_power",
+      "https://en.wikipedia.org/wiki/International_Space_Station"
+    ],
+    "rank": 2,
+    "reciprocal_rank": 0.5,
+    "latency": 1.581
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the name of the power station that was used to power a single arc lamp ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Hydroelectricity",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Hydroelectricity",
+      "https://en.wikipedia.org/wiki/Hydroelectricity",
+      "https://en.wikipedia.org/wiki/Hydroelectricity",
+      "https://en.wikipedia.org/wiki/Hydroelectricity",
+      "https://en.wikipedia.org/wiki/Higgs_boson"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 1.459
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the name of the power station that was used to power a single arc lamp ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Hydroelectricity",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Wind_power",
+      "https://en.wikipedia.org/wiki/Hydroelectricity",
+      "https://en.wikipedia.org/wiki/Hydroelectricity",
+      "https://en.wikipedia.org/wiki/Hydroelectricity",
+      "https://en.wikipedia.org/wiki/Wind_power"
+    ],
+    "rank": 2,
+    "reciprocal_rank": 0.5,
+    "latency": 10.169
+  },
+  {
+    "mode": "dense",
+    "question": "What is the narrator 's ability to initiate movement ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Aristotle",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Phonetics",
+      "https://en.wikipedia.org/wiki/Phonetics",
+      "https://en.wikipedia.org/wiki/Human_brain",
+      "https://en.wikipedia.org/wiki/Human_brain",
+      "https://en.wikipedia.org/wiki/Robotics"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 3.609
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the narrator 's ability to initiate movement ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Aristotle",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Aristotle",
+      "https://en.wikipedia.org/wiki/Plato",
+      "https://en.wikipedia.org/wiki/Higgs_boson",
+      "https://en.wikipedia.org/wiki/Friedrich_Nietzsche",
+      "https://en.wikipedia.org/wiki/Friedrich_Nietzsche"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 4.421
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the narrator 's ability to initiate movement ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Aristotle",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Phonetics",
+      "https://en.wikipedia.org/wiki/Aristotle",
+      "https://en.wikipedia.org/wiki/Phonetics",
+      "https://en.wikipedia.org/wiki/Plato",
+      "https://en.wikipedia.org/wiki/Human_brain"
+    ],
+    "rank": 2,
+    "reciprocal_rank": 0.5,
+    "latency": 1.284
+  },
+  {
+    "mode": "dense",
+    "question": "What may be the reason for the students feeling a greater sense of support ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Distance_education",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Education",
+      "https://en.wikipedia.org/wiki/Education",
+      "https://en.wikipedia.org/wiki/Education",
+      "https://en.wikipedia.org/wiki/Education",
+      "https://en.wikipedia.org/wiki/Educational_technology"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 1.661
+  },
+  {
+    "mode": "sparse",
+    "question": "What may be the reason for the students feeling a greater sense of support ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Distance_education",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Distance_education",
+      "https://en.wikipedia.org/wiki/Distance_education",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Higgs_boson"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 2.246
+  },
+  {
+    "mode": "hybrid",
+    "question": "What may be the reason for the students feeling a greater sense of support ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Distance_education",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Education",
+      "https://en.wikipedia.org/wiki/Distance_education",
+      "https://en.wikipedia.org/wiki/Education",
+      "https://en.wikipedia.org/wiki/Distance_education",
+      "https://en.wikipedia.org/wiki/Education"
+    ],
+    "rank": 2,
+    "reciprocal_rank": 0.5,
+    "latency": 1.307
+  },
+  {
+    "mode": "dense",
+    "question": "What is the reason for the lack of control of the underlying cloud infrastructure ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Cloud_computing",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Cloud_computing",
+      "https://en.wikipedia.org/wiki/Cloud_computing",
+      "https://en.wikipedia.org/wiki/Cloud_computing",
+      "https://en.wikipedia.org/wiki/Cloud_computing",
+      "https://en.wikipedia.org/wiki/Cloud_computing"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 1.706
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the reason for the lack of control of the underlying cloud infrastructure ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Cloud_computing",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Cloud_computing",
+      "https://en.wikipedia.org/wiki/Cloud_computing",
+      "https://en.wikipedia.org/wiki/Cloud_computing",
+      "https://en.wikipedia.org/wiki/Cloud_computing",
+      "https://en.wikipedia.org/wiki/Cloud_computing"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 3.581
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the reason for the lack of control of the underlying cloud infrastructure ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Cloud_computing",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Cloud_computing",
+      "https://en.wikipedia.org/wiki/Cloud_computing",
+      "https://en.wikipedia.org/wiki/Cloud_computing",
+      "https://en.wikipedia.org/wiki/Cloud_computing",
+      "https://en.wikipedia.org/wiki/Cloud_computing"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 4.535
+  },
+  {
+    "mode": "dense",
+    "question": "What is the name of the travel agency ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Travel_agency",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Sustainable_tourism",
+      "https://en.wikipedia.org/wiki/Sustainable_tourism",
+      "https://en.wikipedia.org/wiki/Hospitality_industry",
+      "https://en.wikipedia.org/wiki/Hospitality_industry",
+      "https://en.wikipedia.org/wiki/Travel_agency"
+    ],
+    "rank": 5,
+    "reciprocal_rank": 0.2,
+    "latency": 4.882
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the name of the travel agency ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Travel_agency",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Higgs_boson",
+      "https://en.wikipedia.org/wiki/Travel_agency",
+      "https://en.wikipedia.org/wiki/Sociology",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Philosophy"
+    ],
+    "rank": 2,
+    "reciprocal_rank": 0.5,
+    "latency": 1.675
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the name of the travel agency ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Travel_agency",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Travel_agency",
+      "https://en.wikipedia.org/wiki/Sustainable_tourism",
+      "https://en.wikipedia.org/wiki/Higgs_boson",
+      "https://en.wikipedia.org/wiki/Sustainable_tourism",
+      "https://en.wikipedia.org/wiki/Hospitality_industry"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 13.879
+  },
+  {
+    "mode": "dense",
+    "question": "What is the name of the US corporation that has offered a reboost capability that would keep the ISS in orbit ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/International_Space_Station",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/International_Space_Station",
+      "https://en.wikipedia.org/wiki/International_Space_Station",
+      "https://en.wikipedia.org/wiki/International_Space_Station",
+      "https://en.wikipedia.org/wiki/International_Space_Station",
+      "https://en.wikipedia.org/wiki/International_Space_Station"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 5.046
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the name of the US corporation that has offered a reboost capability that would keep the ISS in orbit ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/International_Space_Station",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/International_Space_Station",
+      "https://en.wikipedia.org/wiki/International_Space_Station",
+      "https://en.wikipedia.org/wiki/International_Space_Station",
+      "https://en.wikipedia.org/wiki/International_Space_Station",
+      "https://en.wikipedia.org/wiki/Higgs_boson"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 1.557
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the name of the US corporation that has offered a reboost capability that would keep the ISS in orbit ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/International_Space_Station",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/International_Space_Station",
+      "https://en.wikipedia.org/wiki/International_Space_Station",
+      "https://en.wikipedia.org/wiki/International_Space_Station",
+      "https://en.wikipedia.org/wiki/International_Space_Station",
+      "https://en.wikipedia.org/wiki/International_Space_Station"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 2.885
+  },
+  {
+    "mode": "dense",
+    "question": "What is the reason for the acclamation by the army or Praetorians ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Roman_Empire",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Roman_Empire",
+      "https://en.wikipedia.org/wiki/Roman_Empire",
+      "https://en.wikipedia.org/wiki/Roman_Empire",
+      "https://en.wikipedia.org/wiki/Roman_Empire",
+      "https://en.wikipedia.org/wiki/Roman_Empire"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 2.359
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the reason for the acclamation by the army or Praetorians ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Roman_Empire",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Roman_Empire",
+      "https://en.wikipedia.org/wiki/Roman_Empire",
+      "https://en.wikipedia.org/wiki/Roman_Empire",
+      "https://en.wikipedia.org/wiki/Roman_Empire",
+      "https://en.wikipedia.org/wiki/Philosophy"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 4.724
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the reason for the acclamation by the army or Praetorians ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Roman_Empire",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Roman_Empire",
+      "https://en.wikipedia.org/wiki/Roman_Empire",
+      "https://en.wikipedia.org/wiki/Roman_Empire",
+      "https://en.wikipedia.org/wiki/Roman_Empire",
+      "https://en.wikipedia.org/wiki/Roman_Empire"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 2.085
+  },
+  {
+    "mode": "dense",
+    "question": "What is the name of the turtle that is endangered ? Choose from: - None of the above choices .; - It is a fox .; - It is a fox .;?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Wildlife_conservation",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Wildlife_conservation",
+      "https://en.wikipedia.org/wiki/Wildlife_conservation",
+      "https://en.wikipedia.org/wiki/Anatomy",
+      "https://en.wikipedia.org/wiki/Environmental_protection",
+      "https://en.wikipedia.org/wiki/Wildlife_conservation"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 2.819
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the name of the turtle that is endangered ? Choose from: - None of the above choices .; - It is a fox .; - It is a fox .;?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Wildlife_conservation",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Australia",
+      "https://en.wikipedia.org/wiki/Personality_psychology",
+      "https://en.wikipedia.org/wiki/Personality_psychology",
+      "https://en.wikipedia.org/wiki/Wildlife_conservation",
+      "https://en.wikipedia.org/wiki/Autonomous_car"
+    ],
+    "rank": 4,
+    "reciprocal_rank": 0.25,
+    "latency": 3.569
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the name of the turtle that is endangered ? Choose from: - None of the above choices .; - It is a fox .; - It is a fox .;?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Wildlife_conservation",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Australia",
+      "https://en.wikipedia.org/wiki/Wildlife_conservation",
+      "https://en.wikipedia.org/wiki/Wildlife_conservation",
+      "https://en.wikipedia.org/wiki/Personality_psychology",
+      "https://en.wikipedia.org/wiki/Anatomy"
+    ],
+    "rank": 2,
+    "reciprocal_rank": 0.5,
+    "latency": 1.541
+  },
+  {
+    "mode": "dense",
+    "question": "What is the best way to describe the information transmission theorems ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Information_theory",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Information_theory",
+      "https://en.wikipedia.org/wiki/Information_theory",
+      "https://en.wikipedia.org/wiki/Information_theory",
+      "https://en.wikipedia.org/wiki/Information_theory",
+      "https://en.wikipedia.org/wiki/Recommendation_system"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 14.172
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the best way to describe the information transmission theorems ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Information_theory",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Information_theory",
+      "https://en.wikipedia.org/wiki/Information_theory",
+      "https://en.wikipedia.org/wiki/Information_theory",
+      "https://en.wikipedia.org/wiki/Information_theory",
+      "https://en.wikipedia.org/wiki/Philosophy"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 14.133
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the best way to describe the information transmission theorems ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Information_theory",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Information_theory",
+      "https://en.wikipedia.org/wiki/Information_theory",
+      "https://en.wikipedia.org/wiki/Information_theory",
+      "https://en.wikipedia.org/wiki/Information_theory",
+      "https://en.wikipedia.org/wiki/Information_theory"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 15.57
+  },
+  {
+    "mode": "dense",
+    "question": "What is the definite integral ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Calculus",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Calculus",
+      "https://en.wikipedia.org/wiki/Calculus",
+      "https://en.wikipedia.org/wiki/Calculus",
+      "https://en.wikipedia.org/wiki/Calculus",
+      "https://en.wikipedia.org/wiki/Calculus"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 6.478
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the definite integral ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Calculus",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Calculus",
+      "https://en.wikipedia.org/wiki/Calculus",
+      "https://en.wikipedia.org/wiki/Calculus",
+      "https://en.wikipedia.org/wiki/Calculus",
+      "https://en.wikipedia.org/wiki/Calculus"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 14.897
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the definite integral ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Calculus",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Calculus",
+      "https://en.wikipedia.org/wiki/Calculus",
+      "https://en.wikipedia.org/wiki/Calculus",
+      "https://en.wikipedia.org/wiki/Calculus",
+      "https://en.wikipedia.org/wiki/Calculus"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 3.737
+  },
+  {
+    "mode": "dense",
+    "question": "What is the name of the university that has been a pioneer in mRNA vaccine technology ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Vaccine",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Vaccine",
+      "https://en.wikipedia.org/wiki/Vaccine",
+      "https://en.wikipedia.org/wiki/Medicine",
+      "https://en.wikipedia.org/wiki/Medicine",
+      "https://en.wikipedia.org/wiki/Vaccine"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 4.541
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the name of the university that has been a pioneer in mRNA vaccine technology ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Vaccine",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Vaccine",
+      "https://en.wikipedia.org/wiki/Vaccine",
+      "https://en.wikipedia.org/wiki/Vaccine",
+      "https://en.wikipedia.org/wiki/Vaccine",
+      "https://en.wikipedia.org/wiki/Higgs_boson"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 1.458
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the name of the university that has been a pioneer in mRNA vaccine technology ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Vaccine",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Vaccine",
+      "https://en.wikipedia.org/wiki/Vaccine",
+      "https://en.wikipedia.org/wiki/Vaccine",
+      "https://en.wikipedia.org/wiki/Vaccine",
+      "https://en.wikipedia.org/wiki/Vaccine"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 4.43
+  },
+  {
+    "mode": "dense",
+    "question": "What is the reason for the acceleration of galaxies outside the Local Group ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Dark_energy",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Milky_Way",
+      "https://en.wikipedia.org/wiki/Dark_energy",
+      "https://en.wikipedia.org/wiki/Milky_Way",
+      "https://en.wikipedia.org/wiki/Dark_energy",
+      "https://en.wikipedia.org/wiki/Astronomy"
+    ],
+    "rank": 2,
+    "reciprocal_rank": 0.5,
+    "latency": 1.488
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the reason for the acceleration of galaxies outside the Local Group ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Dark_energy",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Astronomy",
+      "https://en.wikipedia.org/wiki/Astronomy",
+      "https://en.wikipedia.org/wiki/Astronomy",
+      "https://en.wikipedia.org/wiki/Dark_energy",
+      "https://en.wikipedia.org/wiki/Dark_energy"
+    ],
+    "rank": 4,
+    "reciprocal_rank": 0.25,
+    "latency": 1.629
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the reason for the acceleration of galaxies outside the Local Group ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Dark_energy",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Milky_Way",
+      "https://en.wikipedia.org/wiki/Astronomy",
+      "https://en.wikipedia.org/wiki/Dark_energy",
+      "https://en.wikipedia.org/wiki/Astronomy",
+      "https://en.wikipedia.org/wiki/Milky_Way"
+    ],
+    "rank": 3,
+    "reciprocal_rank": 0.3333333333333333,
+    "latency": 1.464
+  },
+  {
+    "mode": "dense",
+    "question": "What is the main reason for the tyranny of the republican government?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Democracy",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Democracy",
+      "https://en.wikipedia.org/wiki/Democracy",
+      "https://en.wikipedia.org/wiki/Democracy",
+      "https://en.wikipedia.org/wiki/Political_science",
+      "https://en.wikipedia.org/wiki/International_relations"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 1.264
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the main reason for the tyranny of the republican government?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Democracy",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Immanuel_Kant",
+      "https://en.wikipedia.org/wiki/Democracy",
+      "https://en.wikipedia.org/wiki/Democracy",
+      "https://en.wikipedia.org/wiki/Democracy",
+      "https://en.wikipedia.org/wiki/French_Revolution"
+    ],
+    "rank": 2,
+    "reciprocal_rank": 0.5,
+    "latency": 2.121
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the main reason for the tyranny of the republican government?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Democracy",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Democracy",
+      "https://en.wikipedia.org/wiki/Immanuel_Kant",
+      "https://en.wikipedia.org/wiki/Democracy",
+      "https://en.wikipedia.org/wiki/Democracy",
+      "https://en.wikipedia.org/wiki/Democracy"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 4.309
+  },
+  {
+    "mode": "dense",
+    "question": "What is the main idea of the law of logic ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Logic",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Ethics",
+      "https://en.wikipedia.org/wiki/Ethics",
+      "https://en.wikipedia.org/wiki/Logic",
+      "https://en.wikipedia.org/wiki/Logic",
+      "https://en.wikipedia.org/wiki/Logic"
+    ],
+    "rank": 3,
+    "reciprocal_rank": 0.3333333333333333,
+    "latency": 4.169
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the main idea of the law of logic ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Logic",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Rule_of_law",
+      "https://en.wikipedia.org/wiki/Rule_of_law",
+      "https://en.wikipedia.org/wiki/Astronomy",
+      "https://en.wikipedia.org/wiki/Astronomy",
+      "https://en.wikipedia.org/wiki/Astronomy"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 13.889
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the main idea of the law of logic ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Logic",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Ethics",
+      "https://en.wikipedia.org/wiki/Rule_of_law",
+      "https://en.wikipedia.org/wiki/Ethics",
+      "https://en.wikipedia.org/wiki/Rule_of_law",
+      "https://en.wikipedia.org/wiki/Logic"
+    ],
+    "rank": 5,
+    "reciprocal_rank": 0.2,
+    "latency": 8.46
+  },
+  {
+    "mode": "dense",
+    "question": "What is the name of the organization that has been criticised by non-governmental organizations ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/World_Bank",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Globalization",
+      "https://en.wikipedia.org/wiki/Globalization",
+      "https://en.wikipedia.org/wiki/Globalization",
+      "https://en.wikipedia.org/wiki/Globalization",
+      "https://en.wikipedia.org/wiki/United_Nations"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 3.493
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the name of the organization that has been criticised by non-governmental organizations ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/World_Bank",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Higgs_boson",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Entrepreneurship",
+      "https://en.wikipedia.org/wiki/Plato"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 3.824
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the name of the organization that has been criticised by non-governmental organizations ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/World_Bank",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Globalization",
+      "https://en.wikipedia.org/wiki/Higgs_boson",
+      "https://en.wikipedia.org/wiki/Globalization",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Globalization"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 1.773
+  },
+  {
+    "mode": "dense",
+    "question": "What is the name of the movement that advocates fair trade rules and perceives current insti?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Globalization",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Free_trade",
+      "https://en.wikipedia.org/wiki/Free_trade",
+      "https://en.wikipedia.org/wiki/International_trade",
+      "https://en.wikipedia.org/wiki/Free_trade",
+      "https://en.wikipedia.org/wiki/Free_trade"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 3.834
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the name of the movement that advocates fair trade rules and perceives current insti?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Globalization",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Globalization",
+      "https://en.wikipedia.org/wiki/Globalization",
+      "https://en.wikipedia.org/wiki/Globalization",
+      "https://en.wikipedia.org/wiki/Globalization",
+      "https://en.wikipedia.org/wiki/Digital_media"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 1.415
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the name of the movement that advocates fair trade rules and perceives current insti?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Globalization",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Free_trade",
+      "https://en.wikipedia.org/wiki/Globalization",
+      "https://en.wikipedia.org/wiki/Free_trade",
+      "https://en.wikipedia.org/wiki/Globalization",
+      "https://en.wikipedia.org/wiki/International_trade"
+    ],
+    "rank": 2,
+    "reciprocal_rank": 0.5,
+    "latency": 3.182
+  },
+  {
+    "mode": "dense",
+    "question": "What is the name of the holographic principle of Gerardus 't Hooft ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/String_theory",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/String_theory",
+      "https://en.wikipedia.org/wiki/String_theory",
+      "https://en.wikipedia.org/wiki/String_theory",
+      "https://en.wikipedia.org/wiki/String_theory",
+      "https://en.wikipedia.org/wiki/String_theory"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 1.529
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the name of the holographic principle of Gerardus 't Hooft ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/String_theory",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/String_theory",
+      "https://en.wikipedia.org/wiki/String_theory",
+      "https://en.wikipedia.org/wiki/String_theory",
+      "https://en.wikipedia.org/wiki/String_theory",
+      "https://en.wikipedia.org/wiki/Higgs_boson"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 13.936
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the name of the holographic principle of Gerardus 't Hooft ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/String_theory",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/String_theory",
+      "https://en.wikipedia.org/wiki/String_theory",
+      "https://en.wikipedia.org/wiki/String_theory",
+      "https://en.wikipedia.org/wiki/String_theory",
+      "https://en.wikipedia.org/wiki/String_theory"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 6.333
+  },
+  {
+    "mode": "dense",
+    "question": "What is the purpose of the organization ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Sustainable_tourism",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/International_relations",
+      "https://en.wikipedia.org/wiki/Public_health",
+      "https://en.wikipedia.org/wiki/Public_health",
+      "https://en.wikipedia.org/wiki/Globalization",
+      "https://en.wikipedia.org/wiki/Globalization"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 14.178
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the purpose of the organization ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Sustainable_tourism",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Plato",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Philosophy"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 2.103
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the purpose of the organization ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Sustainable_tourism",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/International_relations",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Public_health",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Public_health"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 13.907
+  },
+  {
+    "mode": "dense",
+    "question": "What is the main reason for the bourgeoisie producing above all ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Socialism",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Communism",
+      "https://en.wikipedia.org/wiki/Capitalism",
+      "https://en.wikipedia.org/wiki/Capitalism",
+      "https://en.wikipedia.org/wiki/Capitalism",
+      "https://en.wikipedia.org/wiki/Capitalism"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 2.298
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the main reason for the bourgeoisie producing above all ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Socialism",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Friedrich_Nietzsche",
+      "https://en.wikipedia.org/wiki/Friedrich_Nietzsche",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Number_theory"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 1.521
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the main reason for the bourgeoisie producing above all ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Socialism",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Communism",
+      "https://en.wikipedia.org/wiki/Friedrich_Nietzsche",
+      "https://en.wikipedia.org/wiki/Capitalism",
+      "https://en.wikipedia.org/wiki/Friedrich_Nietzsche",
+      "https://en.wikipedia.org/wiki/Capitalism"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 3.23
+  },
+  {
+    "mode": "dense",
+    "question": "What may happen after the d is a complaint ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Consumer_behavior",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Aviation",
+      "https://en.wikipedia.org/wiki/Clinical_trial",
+      "https://en.wikipedia.org/wiki/Social_media",
+      "https://en.wikipedia.org/wiki/Social_media",
+      "https://en.wikipedia.org/wiki/Agile_software_development"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 2.537
+  },
+  {
+    "mode": "sparse",
+    "question": "What may happen after the d is a complaint ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Consumer_behavior",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Higgs_boson",
+      "https://en.wikipedia.org/wiki/Friedrich_Nietzsche",
+      "https://en.wikipedia.org/wiki/Friedrich_Nietzsche"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 13.962
+  },
+  {
+    "mode": "hybrid",
+    "question": "What may happen after the d is a complaint ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Consumer_behavior",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Aviation",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Clinical_trial",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Social_media"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 6.272
+  },
+  {
+    "mode": "dense",
+    "question": "What is the method of estimating equations ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Statistics",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Optimization_(mathematics)",
+      "https://en.wikipedia.org/wiki/Optimization_(mathematics)",
+      "https://en.wikipedia.org/wiki/Statistics",
+      "https://en.wikipedia.org/wiki/Statistics",
+      "https://en.wikipedia.org/wiki/Statistics"
+    ],
+    "rank": 3,
+    "reciprocal_rank": 0.3333333333333333,
+    "latency": 1.799
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the method of estimating equations ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Statistics",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Statistics",
+      "https://en.wikipedia.org/wiki/Statistics",
+      "https://en.wikipedia.org/wiki/Statistics"
+    ],
+    "rank": 3,
+    "reciprocal_rank": 0.3333333333333333,
+    "latency": 6.656
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the method of estimating equations ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Statistics",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Statistics",
+      "https://en.wikipedia.org/wiki/Optimization_(mathematics)",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Optimization_(mathematics)",
+      "https://en.wikipedia.org/wiki/Philosophy"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 1.813
+  },
+  {
+    "mode": "dense",
+    "question": "What is the name of the person who created Minix ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Linux",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Linux",
+      "https://en.wikipedia.org/wiki/Linux",
+      "https://en.wikipedia.org/wiki/Operating_system",
+      "https://en.wikipedia.org/wiki/Operating_system",
+      "https://en.wikipedia.org/wiki/Linux"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 2.513
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the name of the person who created Minix ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Linux",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Higgs_boson",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Linux",
+      "https://en.wikipedia.org/wiki/Linux"
+    ],
+    "rank": 4,
+    "reciprocal_rank": 0.25,
+    "latency": 3.787
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the name of the person who created Minix ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Linux",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Linux",
+      "https://en.wikipedia.org/wiki/Linux",
+      "https://en.wikipedia.org/wiki/Higgs_boson",
+      "https://en.wikipedia.org/wiki/Linux",
+      "https://en.wikipedia.org/wiki/Philosophy"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 5.546
+  },
+  {
+    "mode": "dense",
+    "question": "What is the cause of ocean current ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Oceanography",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Oceanography",
+      "https://en.wikipedia.org/wiki/Indian_Ocean",
+      "https://en.wikipedia.org/wiki/Atlantic_Ocean",
+      "https://en.wikipedia.org/wiki/Water_pollution",
+      "https://en.wikipedia.org/wiki/Atlantic_Ocean"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 5.541
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the cause of ocean current ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Oceanography",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Astronomy",
+      "https://en.wikipedia.org/wiki/Astronomy",
+      "https://en.wikipedia.org/wiki/Astronomy"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 15.753
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the cause of ocean current ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Oceanography",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Oceanography",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Indian_Ocean",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Atlantic_Ocean"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 3.548
+  },
+  {
+    "mode": "dense",
+    "question": "What is the name of the socialist movement that ruled the Paris Commune of 1871 ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Socialism",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Socialism",
+      "https://en.wikipedia.org/wiki/Socialism",
+      "https://en.wikipedia.org/wiki/Communism",
+      "https://en.wikipedia.org/wiki/Capitalism",
+      "https://en.wikipedia.org/wiki/Socialism"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 7.825
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the name of the socialist movement that ruled the Paris Commune of 1871 ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Socialism",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Socialism",
+      "https://en.wikipedia.org/wiki/Socialism",
+      "https://en.wikipedia.org/wiki/Higgs_boson",
+      "https://en.wikipedia.org/wiki/Socialism",
+      "https://en.wikipedia.org/wiki/Socialism"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 3.17
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the name of the socialist movement that ruled the Paris Commune of 1871 ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Socialism",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Socialism",
+      "https://en.wikipedia.org/wiki/Socialism",
+      "https://en.wikipedia.org/wiki/Socialism",
+      "https://en.wikipedia.org/wiki/Socialism",
+      "https://en.wikipedia.org/wiki/Communism"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 6.358
+  },
+  {
+    "mode": "dense",
+    "question": "What is the percentage of public health spending in the United States ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Public_health",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Public_health",
+      "https://en.wikipedia.org/wiki/Public_health",
+      "https://en.wikipedia.org/wiki/Public_health",
+      "https://en.wikipedia.org/wiki/Public_health",
+      "https://en.wikipedia.org/wiki/United_States"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 1.249
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the percentage of public health spending in the United States ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Public_health",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Public_health",
+      "https://en.wikipedia.org/wiki/Public_health",
+      "https://en.wikipedia.org/wiki/Public_health",
+      "https://en.wikipedia.org/wiki/Public_health",
+      "https://en.wikipedia.org/wiki/United_States"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 14.388
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the percentage of public health spending in the United States ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Public_health",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Public_health",
+      "https://en.wikipedia.org/wiki/United_States",
+      "https://en.wikipedia.org/wiki/Public_health",
+      "https://en.wikipedia.org/wiki/Public_health",
+      "https://en.wikipedia.org/wiki/Public_health"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 2.366
+  },
+  {
+    "mode": "dense",
+    "question": "What is the main cause of action potential ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Human_brain",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Nervous_system",
+      "https://en.wikipedia.org/wiki/Nervous_system",
+      "https://en.wikipedia.org/wiki/Human_brain",
+      "https://en.wikipedia.org/wiki/Human_brain",
+      "https://en.wikipedia.org/wiki/Human_brain"
+    ],
+    "rank": 3,
+    "reciprocal_rank": 0.3333333333333333,
+    "latency": 1.71
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the main cause of action potential ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Human_brain",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Astronomy",
+      "https://en.wikipedia.org/wiki/Astronomy",
+      "https://en.wikipedia.org/wiki/Astronomy"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 13.921
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the main cause of action potential ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Human_brain",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Nervous_system",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Nervous_system",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Human_brain"
+    ],
+    "rank": 5,
+    "reciprocal_rank": 0.2,
+    "latency": 7.035
+  },
+  {
+    "mode": "dense",
+    "question": "What is the optimal linear relationship of q ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Principal_component_analysis",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Principal_component_analysis",
+      "https://en.wikipedia.org/wiki/Reinforcement_learning",
+      "https://en.wikipedia.org/wiki/Reinforcement_learning",
+      "https://en.wikipedia.org/wiki/Reinforcement_learning",
+      "https://en.wikipedia.org/wiki/Reinforcement_learning"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 2.659
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the optimal linear relationship of q ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Principal_component_analysis",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Principal_component_analysis",
+      "https://en.wikipedia.org/wiki/Principal_component_analysis",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Astronomy"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 13.968
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the optimal linear relationship of q ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Principal_component_analysis",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Principal_component_analysis",
+      "https://en.wikipedia.org/wiki/Principal_component_analysis",
+      "https://en.wikipedia.org/wiki/Reinforcement_learning",
+      "https://en.wikipedia.org/wiki/Reinforcement_learning",
+      "https://en.wikipedia.org/wiki/Philosophy"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 14.061
+  },
+  {
+    "mode": "dense",
+    "question": "What is the reason for the name God Particle ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Higgs_boson",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Higgs_boson",
+      "https://en.wikipedia.org/wiki/Higgs_boson",
+      "https://en.wikipedia.org/wiki/Planet",
+      "https://en.wikipedia.org/wiki/Planet",
+      "https://en.wikipedia.org/wiki/Planet"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 8.398
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the reason for the name God Particle ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Higgs_boson",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Higgs_boson",
+      "https://en.wikipedia.org/wiki/Higgs_boson",
+      "https://en.wikipedia.org/wiki/Higgs_boson",
+      "https://en.wikipedia.org/wiki/Higgs_boson",
+      "https://en.wikipedia.org/wiki/Friedrich_Nietzsche"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 6.973
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the reason for the name God Particle ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Higgs_boson",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Higgs_boson",
+      "https://en.wikipedia.org/wiki/Higgs_boson",
+      "https://en.wikipedia.org/wiki/Higgs_boson",
+      "https://en.wikipedia.org/wiki/Higgs_boson",
+      "https://en.wikipedia.org/wiki/Higgs_boson"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 6.904
+  },
+  {
+    "mode": "dense",
+    "question": "What is the name of the country that punk and hip hop originated from ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/United_States",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/United_States",
+      "https://en.wikipedia.org/wiki/Music",
+      "https://en.wikipedia.org/wiki/United_States",
+      "https://en.wikipedia.org/wiki/Art",
+      "https://en.wikipedia.org/wiki/Globalization"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 14.418
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the name of the country that punk and hip hop originated from ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/United_States",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/United_States",
+      "https://en.wikipedia.org/wiki/United_States",
+      "https://en.wikipedia.org/wiki/Music",
+      "https://en.wikipedia.org/wiki/China",
+      "https://en.wikipedia.org/wiki/Germany"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 1.987
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the name of the country that punk and hip hop originated from ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/United_States",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/United_States",
+      "https://en.wikipedia.org/wiki/United_States",
+      "https://en.wikipedia.org/wiki/Music",
+      "https://en.wikipedia.org/wiki/Music",
+      "https://en.wikipedia.org/wiki/Art"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 1.901
+  },
+  {
+    "mode": "dense",
+    "question": "What is the n md of the smv classifier ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Support_vector_machine",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Virology",
+      "https://en.wikipedia.org/wiki/Virology",
+      "https://en.wikipedia.org/wiki/Machine_learning",
+      "https://en.wikipedia.org/wiki/Machine_learning",
+      "https://en.wikipedia.org/wiki/Machine_learning"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 3.453
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the n md of the smv classifier ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Support_vector_machine",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Number_theory",
+      "https://en.wikipedia.org/wiki/Number_theory",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Astronomy"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 1.287
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the n md of the smv classifier ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Support_vector_machine",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Virology",
+      "https://en.wikipedia.org/wiki/Number_theory",
+      "https://en.wikipedia.org/wiki/Virology",
+      "https://en.wikipedia.org/wiki/Number_theory",
+      "https://en.wikipedia.org/wiki/Machine_learning"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 14.265
+  },
+  {
+    "mode": "dense",
+    "question": "What is the difference between the Sun and Moon ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Moon",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Moon",
+      "https://en.wikipedia.org/wiki/Moon",
+      "https://en.wikipedia.org/wiki/Moon",
+      "https://en.wikipedia.org/wiki/Moon",
+      "https://en.wikipedia.org/wiki/Mars"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 2.884
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the difference between the Sun and Moon ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Moon",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Moon",
+      "https://en.wikipedia.org/wiki/Moon",
+      "https://en.wikipedia.org/wiki/Astronomy",
+      "https://en.wikipedia.org/wiki/Astronomy",
+      "https://en.wikipedia.org/wiki/Astronomy"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 13.764
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the difference between the Sun and Moon ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Moon",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Moon",
+      "https://en.wikipedia.org/wiki/Moon",
+      "https://en.wikipedia.org/wiki/Moon",
+      "https://en.wikipedia.org/wiki/Moon",
+      "https://en.wikipedia.org/wiki/Astronomy"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 3.635
+  },
+  {
+    "mode": "dense",
+    "question": "What is the reason for the delay in bringing in more foreign tourists ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Hospitality_industry",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Globalization",
+      "https://en.wikipedia.org/wiki/Globalization",
+      "https://en.wikipedia.org/wiki/Sustainable_tourism",
+      "https://en.wikipedia.org/wiki/Market_research",
+      "https://en.wikipedia.org/wiki/Tourism"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 1.794
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the reason for the delay in bringing in more foreign tourists ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Hospitality_industry",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Higgs_boson",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Brazil",
+      "https://en.wikipedia.org/wiki/Ecotourism"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 5.085
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the reason for the delay in bringing in more foreign tourists ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Hospitality_industry",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Globalization",
+      "https://en.wikipedia.org/wiki/Higgs_boson",
+      "https://en.wikipedia.org/wiki/Globalization",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Sustainable_tourism"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 4.94
+  },
+  {
+    "mode": "dense",
+    "question": "What is the name of the company that sold the spinning wheel ? Select from: - None of the above choices .; - They sold the spinning wheel .; - They sold the spinning wheel .; - They?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Industrial_Revolution",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Industrial_Revolution",
+      "https://en.wikipedia.org/wiki/Industrial_Revolution",
+      "https://en.wikipedia.org/wiki/Industrial_Revolution",
+      "https://en.wikipedia.org/wiki/Industrial_Revolution",
+      "https://en.wikipedia.org/wiki/Entrepreneurship"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 3.94
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the name of the company that sold the spinning wheel ? Select from: - None of the above choices .; - They sold the spinning wheel .; - They sold the spinning wheel .; - They?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Industrial_Revolution",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Industrial_Revolution",
+      "https://en.wikipedia.org/wiki/Industrial_Revolution",
+      "https://en.wikipedia.org/wiki/Autonomous_car",
+      "https://en.wikipedia.org/wiki/Industrial_Revolution",
+      "https://en.wikipedia.org/wiki/Industrial_Revolution"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 14.169
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the name of the company that sold the spinning wheel ? Select from: - None of the above choices .; - They sold the spinning wheel .; - They sold the spinning wheel .; - They?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Industrial_Revolution",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Industrial_Revolution",
+      "https://en.wikipedia.org/wiki/Industrial_Revolution",
+      "https://en.wikipedia.org/wiki/Industrial_Revolution",
+      "https://en.wikipedia.org/wiki/Industrial_Revolution",
+      "https://en.wikipedia.org/wiki/Autonomous_car"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 4.292
+  },
+  {
+    "mode": "dense",
+    "question": "What is the simplest way to categorize attention heads ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Transformer_(machine_learning)",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Transformer_(machine_learning)",
+      "https://en.wikipedia.org/wiki/Psychology",
+      "https://en.wikipedia.org/wiki/Cognitive_psychology",
+      "https://en.wikipedia.org/wiki/Transformer_(machine_learning)",
+      "https://en.wikipedia.org/wiki/Transformer_(machine_learning)"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 2.446
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the simplest way to categorize attention heads ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Transformer_(machine_learning)",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Transformer_(machine_learning)",
+      "https://en.wikipedia.org/wiki/Friedrich_Nietzsche",
+      "https://en.wikipedia.org/wiki/Friedrich_Nietzsche"
+    ],
+    "rank": 3,
+    "reciprocal_rank": 0.3333333333333333,
+    "latency": 13.972
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the simplest way to categorize attention heads ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Transformer_(machine_learning)",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Transformer_(machine_learning)",
+      "https://en.wikipedia.org/wiki/Transformer_(machine_learning)",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Psychology",
+      "https://en.wikipedia.org/wiki/Philosophy"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 2.932
+  },
+  {
+    "mode": "dense",
+    "question": "What is the narrator 's remark about the IAU Working Group ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Exoplanet",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/International_relations",
+      "https://en.wikipedia.org/wiki/Anthropology",
+      "https://en.wikipedia.org/wiki/Human_rights",
+      "https://en.wikipedia.org/wiki/Human_rights",
+      "https://en.wikipedia.org/wiki/Human_rights"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 3.137
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the narrator 's remark about the IAU Working Group ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Exoplanet",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Exoplanet",
+      "https://en.wikipedia.org/wiki/Exoplanet",
+      "https://en.wikipedia.org/wiki/Exoplanet",
+      "https://en.wikipedia.org/wiki/Exoplanet",
+      "https://en.wikipedia.org/wiki/Exoplanet"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 3.537
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the narrator 's remark about the IAU Working Group ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Exoplanet",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/International_relations",
+      "https://en.wikipedia.org/wiki/Exoplanet",
+      "https://en.wikipedia.org/wiki/Anthropology",
+      "https://en.wikipedia.org/wiki/Exoplanet",
+      "https://en.wikipedia.org/wiki/Human_rights"
+    ],
+    "rank": 2,
+    "reciprocal_rank": 0.5,
+    "latency": 3.79
+  },
+  {
+    "mode": "dense",
+    "question": "What is the best way to keep the mind in good functionality until advanced age ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Memory",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Educational_technology",
+      "https://en.wikipedia.org/wiki/Educational_technology",
+      "https://en.wikipedia.org/wiki/Educational_technology",
+      "https://en.wikipedia.org/wiki/Educational_technology",
+      "https://en.wikipedia.org/wiki/Educational_technology"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 1.864
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the best way to keep the mind in good functionality until advanced age ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Memory",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Memory",
+      "https://en.wikipedia.org/wiki/Memory",
+      "https://en.wikipedia.org/wiki/Memory",
+      "https://en.wikipedia.org/wiki/Memory",
+      "https://en.wikipedia.org/wiki/Plato"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 13.738
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the best way to keep the mind in good functionality until advanced age ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Memory",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Educational_technology",
+      "https://en.wikipedia.org/wiki/Memory",
+      "https://en.wikipedia.org/wiki/Educational_technology",
+      "https://en.wikipedia.org/wiki/Memory",
+      "https://en.wikipedia.org/wiki/Educational_technology"
+    ],
+    "rank": 2,
+    "reciprocal_rank": 0.5,
+    "latency": 2.206
+  },
+  {
+    "mode": "dense",
+    "question": "What is the simplest form of decomposition ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Ecosystem",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Graph_theory",
+      "https://en.wikipedia.org/wiki/Graph_theory",
+      "https://en.wikipedia.org/wiki/Ecosystem",
+      "https://en.wikipedia.org/wiki/Number_theory",
+      "https://en.wikipedia.org/wiki/Number_theory"
+    ],
+    "rank": 3,
+    "reciprocal_rank": 0.3333333333333333,
+    "latency": 3.256
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the simplest form of decomposition ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Ecosystem",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Astronomy",
+      "https://en.wikipedia.org/wiki/Astronomy",
+      "https://en.wikipedia.org/wiki/Astronomy"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 13.812
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the simplest form of decomposition ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Ecosystem",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Graph_theory",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Graph_theory",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Ecosystem"
+    ],
+    "rank": 5,
+    "reciprocal_rank": 0.2,
+    "latency": 2.051
+  },
+  {
+    "mode": "dense",
+    "question": "What happened in the year 2005 ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Democracy",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Tourism",
+      "https://en.wikipedia.org/wiki/Recession",
+      "https://en.wikipedia.org/wiki/Recession",
+      "https://en.wikipedia.org/wiki/Stock_market",
+      "https://en.wikipedia.org/wiki/Stock_market"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 4.079
+  },
+  {
+    "mode": "sparse",
+    "question": "What happened in the year 2005 ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Democracy",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Astronomy",
+      "https://en.wikipedia.org/wiki/Astronomy",
+      "https://en.wikipedia.org/wiki/Astronomy"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 14.044
+  },
+  {
+    "mode": "hybrid",
+    "question": "What happened in the year 2005 ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Democracy",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Tourism",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Recession",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Recession"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 2.199
+  },
+  {
+    "mode": "dense",
+    "question": "What is the name of the person who is a middle class ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Industrial_Revolution",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Consumer_behavior",
+      "https://en.wikipedia.org/wiki/Industrial_Revolution",
+      "https://en.wikipedia.org/wiki/Industrial_Revolution",
+      "https://en.wikipedia.org/wiki/Globalization",
+      "https://en.wikipedia.org/wiki/Globalization"
+    ],
+    "rank": 2,
+    "reciprocal_rank": 0.5,
+    "latency": 3.023
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the name of the person who is a middle class ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Industrial_Revolution",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Higgs_boson",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Plato",
+      "https://en.wikipedia.org/wiki/Cognitive_science"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 3.76
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the name of the person who is a middle class ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Industrial_Revolution",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Consumer_behavior",
+      "https://en.wikipedia.org/wiki/Higgs_boson",
+      "https://en.wikipedia.org/wiki/Industrial_Revolution",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Industrial_Revolution"
+    ],
+    "rank": 3,
+    "reciprocal_rank": 0.3333333333333333,
+    "latency": 3.137
+  },
+  {
+    "mode": "dense",
+    "question": "What is the cause of the ice caps ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Antarctica",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Antarctica",
+      "https://en.wikipedia.org/wiki/Antarctica",
+      "https://en.wikipedia.org/wiki/Antarctica",
+      "https://en.wikipedia.org/wiki/Antarctica",
+      "https://en.wikipedia.org/wiki/Arctic"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 5.241
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the cause of the ice caps ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Antarctica",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Mars",
+      "https://en.wikipedia.org/wiki/Mars",
+      "https://en.wikipedia.org/wiki/Antarctica",
+      "https://en.wikipedia.org/wiki/Antarctica",
+      "https://en.wikipedia.org/wiki/Antarctica"
+    ],
+    "rank": 3,
+    "reciprocal_rank": 0.3333333333333333,
+    "latency": 1.67
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the cause of the ice caps ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Antarctica",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Antarctica",
+      "https://en.wikipedia.org/wiki/Mars",
+      "https://en.wikipedia.org/wiki/Antarctica",
+      "https://en.wikipedia.org/wiki/Mars",
+      "https://en.wikipedia.org/wiki/Antarctica"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 4.253
+  },
+  {
+    "mode": "dense",
+    "question": "What is the percentage of public health spending in the United States ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Public_health",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Public_health",
+      "https://en.wikipedia.org/wiki/Public_health",
+      "https://en.wikipedia.org/wiki/Public_health",
+      "https://en.wikipedia.org/wiki/Public_health",
+      "https://en.wikipedia.org/wiki/United_States"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 2.229
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the percentage of public health spending in the United States ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Public_health",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Public_health",
+      "https://en.wikipedia.org/wiki/Public_health",
+      "https://en.wikipedia.org/wiki/Public_health",
+      "https://en.wikipedia.org/wiki/Public_health",
+      "https://en.wikipedia.org/wiki/United_States"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 13.823
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the percentage of public health spending in the United States ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Public_health",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Public_health",
+      "https://en.wikipedia.org/wiki/United_States",
+      "https://en.wikipedia.org/wiki/Public_health",
+      "https://en.wikipedia.org/wiki/Public_health",
+      "https://en.wikipedia.org/wiki/Public_health"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 2.039
+  },
+  {
+    "mode": "dense",
+    "question": "What is the probability of an event ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Probability",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Statistics",
+      "https://en.wikipedia.org/wiki/Probability",
+      "https://en.wikipedia.org/wiki/Probability",
+      "https://en.wikipedia.org/wiki/Calculus",
+      "https://en.wikipedia.org/wiki/Probability_theory"
+    ],
+    "rank": 2,
+    "reciprocal_rank": 0.5,
+    "latency": 11.478
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the probability of an event ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Probability",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Probability_theory",
+      "https://en.wikipedia.org/wiki/Probability_theory",
+      "https://en.wikipedia.org/wiki/Probability"
+    ],
+    "rank": 5,
+    "reciprocal_rank": 0.2,
+    "latency": 2.305
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the probability of an event ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Probability",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Statistics",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Probability",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Probability"
+    ],
+    "rank": 3,
+    "reciprocal_rank": 0.3333333333333333,
+    "latency": 7.29
+  },
+  {
+    "mode": "dense",
+    "question": "What was the name of the person who received a five-year prison sentence in the US ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Cryptocurrency",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/United_States",
+      "https://en.wikipedia.org/wiki/Intelligence",
+      "https://en.wikipedia.org/wiki/Mental_health",
+      "https://en.wikipedia.org/wiki/Mental_health",
+      "https://en.wikipedia.org/wiki/World_War_II"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 1.587
+  },
+  {
+    "mode": "sparse",
+    "question": "What was the name of the person who received a five-year prison sentence in the US ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Cryptocurrency",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Cryptocurrency",
+      "https://en.wikipedia.org/wiki/Cryptocurrency",
+      "https://en.wikipedia.org/wiki/Cryptocurrency",
+      "https://en.wikipedia.org/wiki/Cryptocurrency",
+      "https://en.wikipedia.org/wiki/Higgs_boson"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 2.562
+  },
+  {
+    "mode": "hybrid",
+    "question": "What was the name of the person who received a five-year prison sentence in the US ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Cryptocurrency",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/United_States",
+      "https://en.wikipedia.org/wiki/Cryptocurrency",
+      "https://en.wikipedia.org/wiki/Intelligence",
+      "https://en.wikipedia.org/wiki/Cryptocurrency",
+      "https://en.wikipedia.org/wiki/Mental_health"
+    ],
+    "rank": 2,
+    "reciprocal_rank": 0.5,
+    "latency": 6.145
+  },
+  {
+    "mode": "dense",
+    "question": "What is the most common measure of democracy ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Democracy",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Political_science",
+      "https://en.wikipedia.org/wiki/International_relations",
+      "https://en.wikipedia.org/wiki/Democracy",
+      "https://en.wikipedia.org/wiki/Democracy",
+      "https://en.wikipedia.org/wiki/Democracy"
+    ],
+    "rank": 3,
+    "reciprocal_rank": 0.3333333333333333,
+    "latency": 6.0
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the most common measure of democracy ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Democracy",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Plato",
+      "https://en.wikipedia.org/wiki/Friedrich_Nietzsche",
+      "https://en.wikipedia.org/wiki/Friedrich_Nietzsche"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 3.368
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the most common measure of democracy ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Democracy",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Political_science",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/International_relations",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Democracy"
+    ],
+    "rank": 5,
+    "reciprocal_rank": 0.2,
+    "latency": 12.822
+  },
+  {
+    "mode": "dense",
+    "question": "What is the name of the person who cursed the Terror by the right ? Choose from: - None of the above choices . - They were a savage . - They were a s?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/French_Revolution",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/French_Revolution",
+      "https://en.wikipedia.org/wiki/French_Revolution",
+      "https://en.wikipedia.org/wiki/Existentialism",
+      "https://en.wikipedia.org/wiki/Existentialism",
+      "https://en.wikipedia.org/wiki/Communism"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 1.995
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the name of the person who cursed the Terror by the right ? Choose from: - None of the above choices . - They were a savage . - They were a s?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/French_Revolution",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Personality_psychology",
+      "https://en.wikipedia.org/wiki/Personality_psychology",
+      "https://en.wikipedia.org/wiki/Macroeconomics",
+      "https://en.wikipedia.org/wiki/Macroeconomics",
+      "https://en.wikipedia.org/wiki/French_Revolution"
+    ],
+    "rank": 5,
+    "reciprocal_rank": 0.2,
+    "latency": 3.55
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the name of the person who cursed the Terror by the right ? Choose from: - None of the above choices . - They were a savage . - They were a s?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/French_Revolution",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/French_Revolution",
+      "https://en.wikipedia.org/wiki/Personality_psychology",
+      "https://en.wikipedia.org/wiki/French_Revolution",
+      "https://en.wikipedia.org/wiki/Personality_psychology",
+      "https://en.wikipedia.org/wiki/Existentialism"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 1.472
+  },
+  {
+    "mode": "dense",
+    "question": "What is the best way to learn decision trees from data mining ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Decision_tree_learning",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Support_vector_machine",
+      "https://en.wikipedia.org/wiki/Support_vector_machine",
+      "https://en.wikipedia.org/wiki/Decision_tree_learning",
+      "https://en.wikipedia.org/wiki/Support_vector_machine",
+      "https://en.wikipedia.org/wiki/Decision_tree_learning"
+    ],
+    "rank": 3,
+    "reciprocal_rank": 0.3333333333333333,
+    "latency": 1.801
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the best way to learn decision trees from data mining ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Decision_tree_learning",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Decision_tree_learning",
+      "https://en.wikipedia.org/wiki/Decision_tree_learning",
+      "https://en.wikipedia.org/wiki/Machine_learning",
+      "https://en.wikipedia.org/wiki/Machine_learning",
+      "https://en.wikipedia.org/wiki/Machine_learning"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 4.577
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the best way to learn decision trees from data mining ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Decision_tree_learning",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Machine_learning",
+      "https://en.wikipedia.org/wiki/Decision_tree_learning",
+      "https://en.wikipedia.org/wiki/Data_mining",
+      "https://en.wikipedia.org/wiki/Support_vector_machine",
+      "https://en.wikipedia.org/wiki/Decision_tree_learning"
+    ],
+    "rank": 2,
+    "reciprocal_rank": 0.5,
+    "latency": 1.401
+  },
+  {
+    "mode": "dense",
+    "question": "What is the cause of the inequalities in the ecosystem ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Gross_domestic_product",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Ecosystem",
+      "https://en.wikipedia.org/wiki/Ecosystem",
+      "https://en.wikipedia.org/wiki/Ecosystem",
+      "https://en.wikipedia.org/wiki/Ecosystem",
+      "https://en.wikipedia.org/wiki/Ecosystem"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 1.387
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the cause of the inequalities in the ecosystem ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Gross_domestic_product",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Astronomy",
+      "https://en.wikipedia.org/wiki/Astronomy",
+      "https://en.wikipedia.org/wiki/Astronomy"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 13.881
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the cause of the inequalities in the ecosystem ?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Gross_domestic_product",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Ecosystem",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Ecosystem",
+      "https://en.wikipedia.org/wiki/Philosophy",
+      "https://en.wikipedia.org/wiki/Ecosystem"
+    ],
+    "rank": null,
+    "reciprocal_rank": 0,
+    "latency": 1.552
+  },
+  {
+    "mode": "dense",
+    "question": "What is the difference between Android and x86?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Android_(operating_system)",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Android_(operating_system)",
+      "https://en.wikipedia.org/wiki/Microsoft_Windows",
+      "https://en.wikipedia.org/wiki/Android_(operating_system)",
+      "https://en.wikipedia.org/wiki/Java_(programming_language)",
+      "https://en.wikipedia.org/wiki/Java_(programming_language)"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 13.736
+  },
+  {
+    "mode": "sparse",
+    "question": "What is the difference between Android and x86?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Android_(operating_system)",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Digital_media",
+      "https://en.wikipedia.org/wiki/Java_(programming_language)",
+      "https://en.wikipedia.org/wiki/Java_(programming_language)",
+      "https://en.wikipedia.org/wiki/Android_(operating_system)",
+      "https://en.wikipedia.org/wiki/Android_(operating_system)"
+    ],
+    "rank": 4,
+    "reciprocal_rank": 0.25,
+    "latency": 2.013
+  },
+  {
+    "mode": "hybrid",
+    "question": "What is the difference between Android and x86?",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Android_(operating_system)",
+    "retrieved_urls": [
+      "https://en.wikipedia.org/wiki/Android_(operating_system)",
+      "https://en.wikipedia.org/wiki/Android_(operating_system)",
+      "https://en.wikipedia.org/wiki/Digital_media",
+      "https://en.wikipedia.org/wiki/Microsoft_Windows",
+      "https://en.wikipedia.org/wiki/Java_(programming_language)"
+    ],
+    "rank": 1,
+    "reciprocal_rank": 1.0,
+    "latency": 1.63
+  }
+]

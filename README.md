@@ -48,3 +48,17 @@ pip uninstall -y numpy
 pip install numpy==1.26.4
 pip uninstall -y faiss-cpu
 pip install faiss-cpu==1.7.4
+
+
+
+
+PART 2 process:
+
+1) python3 evaluation/question_generator.py
+   output will be: data/eval_questions.json
+
+2) python3 evaluation/eval_runner.py
+   Output will be: data/eval_results.json
+                   data/eval_summary.json
+
+
