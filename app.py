@@ -1,135 +1,174 @@
 import os
-
 os.environ["KMP_DUPLICATE_LIB_OK"] = "TRUE"
-os.environ["TOKENIZERS_PARALLELISM"] = "false"
-os.environ["OMP_NUM_THREADS"] = "1"
-os.environ["MKL_NUM_THREADS"] = "1"
 
 import streamlit as st
 import time
 from src.rag_pipeline import run_rag
 
 # ---------------- PAGE CONFIG ----------------
-st.set_page_config(page_title="Hybrid RAG System", layout="wide")
 
-st.title("Hybrid RAG System")
+st.set_page_config(
+    page_title="Hybrid RAG System",
+    layout="wide"
+)
 
-# ---------------- SESSION STATE INIT ----------------
-if "rag_result" not in st.session_state:
-    st.session_state.rag_result = None
+st.title("Hybrid Retrieval-Augmented Generation System")
+
+st.markdown(
+"""
+This system combines **Dense Vector Search**, **BM25 Sparse Retrieval** and 
+**Reciprocal Rank Fusion (RRF)** to answer questions from Wikipedia corpus.
+"""
+)
+
+# ---------------- SIDEBAR CONTROLS ----------------
+
+st.sidebar.header("Retrieval Settings")
+
+mode = st.sidebar.selectbox(
+    "Retrieval Mode",
+    ["hybrid", "dense", "sparse"]
+)
+
+top_k = st.sidebar.slider(
+    "Top-K Retrieval (Dense + Sparse)",
+    min_value=5,
+    max_value=20,
+    value=10
+)
+
+final_k = st.sidebar.slider(
+    "Final Context Chunks (After Fusion)",
+    min_value=3,
+    max_value=10,
+    value=5
+)
+
+# ---------------- SESSION STATE ----------------
+
+if "result" not in st.session_state:
+    st.session_state.result = None
 
 if "latency" not in st.session_state:
     st.session_state.latency = None
 
-# ---------------- INPUT ----------------
-query = st.text_input("Ask your question:")
+# ---------------- QUERY INPUT ----------------
 
-# ---------------- SEARCH BUTTON ----------------
-if st.button("Search") and query.strip():
+query = st.text_input(
+    "Enter your question",
+    placeholder="Example: Who invented the World Wide Web?"
+)
 
-    start_time = time.time()
+# ---------------- RUN BUTTON ----------------
 
-    st.session_state.rag_result = run_rag(query)
+if st.button("Run Hybrid RAG") and query.strip():
 
-    st.session_state.latency = round(time.time() - start_time, 2)
+    start = time.time()
 
-# ---------------- DISPLAY RESULTS ----------------
-if st.session_state.rag_result:
+    st.session_state.result = run_rag(
+        query,
+        mode=mode,
+        top_k=top_k,
+        final_k=final_k
+    )
 
-    result = st.session_state.rag_result
+    st.session_state.latency = round(time.time() - start, 3)
+
+# =================================================
+# ---------------- DISPLAY OUTPUT ------------------
+# =================================================
+
+if st.session_state.result:
+
+    result = st.session_state.result
     latency = st.session_state.latency
 
-    # ---------------- ANSWER ----------------
-    st.subheader("Answer")
-    st.write(result.get("answer", "No answer generated."))
+    col1, col2 = st.columns([3,1])
 
-    st.caption(f"Response Time: {latency} seconds")
+    with col1:
+        st.subheader("Generated Answer")
+        st.success(result["answer"])
+
+    with col2:
+        st.metric("Latency (seconds)", latency)
+        st.metric("Retrieval Mode", mode.upper())
 
     # ---------------- SOURCES ----------------
-    st.subheader("Top Sources")
 
-    for url in result.get("sources", [])[:5]:
-        st.write(url)
+    st.subheader("Source Documents")
 
-    # ---------------- CONTEXT USED ----------------
-    st.subheader("Context Used For Answer")
+    for url in result["sources"]:
+        st.markdown(f"- {url}")
 
-    final_context = result.get("final_context", [])
+    # ---------------- CONTEXT ----------------
 
-    if len(final_context) == 0:
-        st.warning("No context returned from RAG pipeline")
-    else:
-        for item in final_context:
-            st.markdown(
-                f"""
-**Source:** {item['url']}  
-**RRF Score:** {round(item['rrf_score'], 4)}
+    st.subheader("Final Context Used (Post Fusion)")
 
-{item['chunk'][:600]}...
----
-"""
-            )
+    for i, item in enumerate(result["final_context"]):
 
-    # ---------------- RETRIEVAL DETAILS ----------------
-    st.subheader("Retrieval Details")
+        with st.expander(f"Chunk {i+1} | RRF Score: {round(item.get('rrf_score',0),4)}"):
+
+            st.markdown(f"**Source:** {item['url']}")
+            st.write(item["chunk"])
+
+    # ---------------- RETRIEVAL TABS ----------------
+
+    st.subheader("Retrieval Transparency")
 
     tab1, tab2, tab3 = st.tabs(
         ["Dense Retrieval", "Sparse Retrieval (BM25)", "RRF Fusion"]
     )
 
     # ---------- Dense ----------
+
     with tab1:
-        dense_results = result.get("dense_results", [])
 
-        if len(dense_results) == 0:
-            st.info("No dense retrieval results.")
+        dense = result["dense_results"]
+
+        if dense:
+            st.table([
+                {
+                    "Rank": d["rank"],
+                    "Score": round(d["score"],4),
+                    "URL": d["url"]
+                }
+                for d in dense[:10]
+            ])
         else:
-            for item in dense_results[:5]:
-                st.markdown(
-                    f"""
-**Rank:** {item['rank']}  
-**Score:** {round(item['score'], 4)}  
-**Source:** {item['url']}  
-
-{item['chunk'][:300]}...
----
-"""
-                )
+            st.info("Dense retrieval not used")
 
     # ---------- Sparse ----------
+
     with tab2:
-        sparse_results = result.get("sparse_results", [])
 
-        if len(sparse_results) == 0:
-            st.info("No sparse retrieval results.")
+        sparse = result["sparse_results"]
+
+        if sparse:
+            st.table([
+                {
+                    "Rank": s["rank"],
+                    "Score": round(s["score"],4),
+                    "URL": s["url"]
+                }
+                for s in sparse[:10]
+            ])
         else:
-            for item in sparse_results[:5]:
-                st.markdown(
-                    f"""
-**Rank:** {item['rank']}  
-**Score:** {round(item['score'], 4)}  
-**Source:** {item['url']}  
-
-{item['chunk'][:300]}...
----
-"""
-                )
+            st.info("Sparse retrieval not used")
 
     # ---------- RRF ----------
+
     with tab3:
-        rrf_results = result.get("rrf_results", [])
 
-        if len(rrf_results) == 0:
-            st.info("No fusion results.")
+        rrf = result["rrf_results"]
+
+        if rrf:
+            st.table([
+                {
+                    "Final Rank": i+1,
+                    "RRF Score": round(r["rrf_score"],4),
+                    "URL": r["url"]
+                }
+                for i, r in enumerate(rrf[:10])
+            ])
         else:
-            for i, item in enumerate(rrf_results[:5]):
-                st.markdown(
-                    f"""
-**Final Rank:** {i+1}  
-**RRF Score:** {round(item['rrf_score'], 4)}  
-**Source:** {item['url']}  
-
-{item['chunk'][:300]}...
----
-"""
-                )
+            st.info("Fusion not used")
