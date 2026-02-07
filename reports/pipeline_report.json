@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "executed_at": "2026-02-07T12:52:59.529793",
+    "python_version": "3.11.1 (tags/v3.11.1:a7a450f, Dec  6 2022, 19:58:39) [MSC v.1934 64 bit (AMD64)]",
+    "cwd": "C:\\Users\\balak\\Documents\\GitHub\\ConversationAI"
+  },
+  "pipeline_steps": [
+    {
+      "name": "Main Evaluation",
+      "script": "evaluation/eval_runner.py",
+      "status": "failed"
+    },
+    {
+      "name": "Ablation Studies",
+      "script": "evaluation/ablation.py",
+      "status": "failed"
+    },
+    {
+      "name": "Error Analysis",
+      "script": "evaluation/error_analysis.py",
+      "status": "failed"
+    },
+    {
+      "name": "Report Generation",
+      "script": "evaluation/report_generator.py",
+      "status": "failed"
+    }
+  ],
+  "summary": {
+    "total_steps": 4,
+    "successful": 0,
+    "failed": 4
+  }
+}

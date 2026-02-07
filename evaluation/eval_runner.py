@@ -65,7 +65,10 @@ for item in tqdm(questions):
             "mode": mode,
             "question": question,
             "ground_truth_url": gt_url,
+            "ground_truth_answer": item.get("answer", ""),
+            "generated_answer": rag_output.get("answer", ""),
             "retrieved_urls": predicted_urls,
+            "context": " ".join(rag_output.get("final_context", [{}])[:3] if rag_output.get("final_context") else []),
             "rank": rank,
             "reciprocal_rank": rr,
             "latency": latency
